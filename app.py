@@ -17,10 +17,9 @@ def upload():
 def decode():
     if request.method == "POST":
         # first save temporary file
-        return_value = "<P>post!</p>\n"
         file = request.files['file']
         file.save("tmp.bufr")
-        return_value += "<p>{}</p>\n".format(file.filename)
+        return_value = "<h2>{}</h2>\n".format(file.filename)
         # ===================================================================
         # now process file
         fh = open("tmp.bufr","rb")

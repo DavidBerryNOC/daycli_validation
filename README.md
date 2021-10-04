@@ -1,13 +1,20 @@
 Instructions 
 ============
-Create new docker image
 
+1) Clone repository:
+```
+git clone https://github.com/DavidBerryNOC/daycli_validation.git
+```
+3) From repository directory, create new docker image
+```
 docker build -t dayclim .
+```
+3) Run image using docker desktop and set port to 5000
+4) Visit:
 
-Run image using docker desktop and set port to 5000
-
-visit 
-
-http://localhost:5000/upload
+    http://localhost:5000/upload
 
 and upload uncompressed BUFR file
+
+5) If successful, decoded data from BUFR file should be shown as webpage,
+including downloadable CSV file. 
