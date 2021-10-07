@@ -10,6 +10,10 @@ git clone https://github.com/DavidBerryNOC/daycli_validation.git
 docker build -t dayclim .
 ```
 3) Run image using docker desktop and set port to 5000
+
+``
+docker run -d -p 5000:5000 dayclim
+``
 4) Visit:
 
     http://localhost:5000/upload

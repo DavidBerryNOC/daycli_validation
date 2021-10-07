@@ -138,6 +138,8 @@ def download():
         resp.headers["Content-type"] = "text/csv"
         return( resp )
 
+if __name__ == '__main__':
+    app.run(debug=True, host='0.0.0.0')
 
 
 
