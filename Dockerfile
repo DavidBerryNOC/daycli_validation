@@ -12,6 +12,5 @@ RUN git clone https://github.com/DavidBerryNOC/daycli_validation.git .
 RUN pip install -r requirements.txt
 # expose port 5000 for flask
 EXPOSE 5000
-#ENV FLASK_APP=app
 ENTRYPOINT ["python"]
 CMD ["app.py"]
