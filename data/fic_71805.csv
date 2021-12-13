@@ -1,0 +1,2295 @@
+,subset,element_number,FXY,ElementName,Value,Units
+0,0,0,001125,WIGOS identifier series,0.0,Numeric
+1,0,1,001126,WIGOS issuer of identifier,20000.0,Numeric
+2,0,2,001127,WIGOS issue number,0.0,Numeric
+3,0,3,001128,WIGOS local identifier (character),71805,CCITT IA5
+4,0,4,001001,WMO block number,71.0,Numeric
+5,0,5,001002,WMO station number,805.0,Numeric
+6,0,6,005001,Latitude (high accuracy),46.76633,deg
+7,0,7,006001,Longitude (high accuracy),-56.179170000000006,deg
+8,0,8,007030,Height of station ground above mean sea level,21.0,m
+9,0,9,008095,Siting and measurement quality classification for temperature,,Code table
+10,0,10,008096,Siting and measurement quality classification for precipitation,,Code table
+11,0,11,008094,Method used to calculate the average daily temperature,2,Code table
+12,0,12,004001,Year,2021.0,a
+13,0,13,004002,Month,10.0,mon
+14,0,14,004003,Day,1.0,d
+15,0,15,004023,Time period or displacement,0.0,d
+16,0,16,004004,Hour,12.0,h
+17,0,17,004005,Minute,0.0,min
+18,0,18,004006,Second,1.0,s
+19,0,19,204008,Operator,,
+20,0,20,031021,Associated field significance,5,Code table
+21,0,21,,Associated field,0,
+22,0,22,013060,Total accumulated precipitation,0.8,kg m-2
+23,0,23,204000,Operator,,
+24,0,24,004023,Time period or displacement,0.0,d
+25,0,25,004004,Hour,12.0,h
+26,0,26,004005,Minute,0.0,min
+27,0,27,004006,Second,1.0,s
+28,0,28,204008,Operator,,
+29,0,29,031021,Associated field significance,5,Code table
+30,0,30,,Associated field,0,
+31,0,31,013012,Depth of fresh snow (depth of snowfall),0.0,m
+32,0,32,204000,Operator,,
+33,0,33,004023,Time period or displacement,0.0,d
+34,0,34,004004,Hour,12.0,h
+35,0,35,004005,Minute,0.0,min
+36,0,36,004006,Second,0.0,s
+37,0,37,204008,Operator,,
+38,0,38,031021,Associated field significance,5,Code table
+39,0,39,,Associated field,0,
+40,0,40,013013,Total snow depth (snow depth),0.0,m
+41,0,41,204000,Operator,,
+42,0,42,007032,Height of sensor above local ground (or deck of marine platform),2.0,m
+43,0,43,004023,Time period or displacement,0.0,d
+44,0,44,004004,Hour,12.0,h
+45,0,45,004005,Minute,0.0,min
+46,0,46,004006,Second,1.0,s
+47,0,47,008023,First-order statistics,2.0,Code table
+48,0,48,204008,Operator,,
+49,0,49,031021,Associated field significance,5.0,Code table
+50,0,50,,Associated field,0.0,
+51,0,51,012101,Temperature/air temperature,289.15000000000003,K
+52,0,52,204000,Operator,,
+53,0,53,004023,Time period or displacement,0.0,d
+54,0,54,004004,Hour,0.0,h
+55,0,55,004005,Minute,0.0,min
+56,0,56,004006,Second,1.0,s
+57,0,57,008023,First-order statistics,3.0,Code table
+58,0,58,204008,Operator,,
+59,0,59,031021,Associated field significance,5.0,Code table
+60,0,60,,Associated field,0.0,
+61,0,61,012101,Temperature/air temperature,286.45,K
+62,0,62,204000,Operator,,
+63,0,63,004023,Time period or displacement,0.0,d
+64,0,64,004004,Hour,4.0,h
+65,0,65,004005,Minute,0.0,min
+66,0,66,004006,Second,1.0,s
+67,0,67,008023,First-order statistics,4.0,Code table
+68,0,68,204008,Operator,,
+69,0,69,031021,Associated field significance,5.0,Code table
+70,0,70,,Associated field,0.0,
+71,0,71,012101,Temperature/air temperature,287.55,K
+72,0,72,204000,Operator,,
+73,0,73,008023,First-order statistics,,Code table
+0,1,0,001125,WIGOS identifier series,0.0,Numeric
+1,1,1,001126,WIGOS issuer of identifier,20000.0,Numeric
+2,1,2,001127,WIGOS issue number,0.0,Numeric
+3,1,3,001128,WIGOS local identifier (character),71805,CCITT IA5
+4,1,4,001001,WMO block number,71.0,Numeric
+5,1,5,001002,WMO station number,805.0,Numeric
+6,1,6,005001,Latitude (high accuracy),46.76633,deg
+7,1,7,006001,Longitude (high accuracy),-56.179170000000006,deg
+8,1,8,007030,Height of station ground above mean sea level,21.0,m
+9,1,9,008095,Siting and measurement quality classification for temperature,,Code table
+10,1,10,008096,Siting and measurement quality classification for precipitation,,Code table
+11,1,11,008094,Method used to calculate the average daily temperature,2,Code table
+12,1,12,004001,Year,2021.0,a
+13,1,13,004002,Month,10.0,mon
+14,1,14,004003,Day,2.0,d
+15,1,15,004023,Time period or displacement,0.0,d
+16,1,16,004004,Hour,12.0,h
+17,1,17,004005,Minute,0.0,min
+18,1,18,004006,Second,1.0,s
+19,1,19,204008,Operator,,
+20,1,20,031021,Associated field significance,5,Code table
+21,1,21,,Associated field,0,
+22,1,22,013060,Total accumulated precipitation,2.2,kg m-2
+23,1,23,204000,Operator,,
+24,1,24,004023,Time period or displacement,0.0,d
+25,1,25,004004,Hour,12.0,h
+26,1,26,004005,Minute,0.0,min
+27,1,27,004006,Second,1.0,s
+28,1,28,204008,Operator,,
+29,1,29,031021,Associated field significance,5,Code table
+30,1,30,,Associated field,0,
+31,1,31,013012,Depth of fresh snow (depth of snowfall),0.0,m
+32,1,32,204000,Operator,,
+33,1,33,004023,Time period or displacement,0.0,d
+34,1,34,004004,Hour,12.0,h
+35,1,35,004005,Minute,0.0,min
+36,1,36,004006,Second,0.0,s
+37,1,37,204008,Operator,,
+38,1,38,031021,Associated field significance,5,Code table
+39,1,39,,Associated field,0,
+40,1,40,013013,Total snow depth (snow depth),0.0,m
+41,1,41,204000,Operator,,
+42,1,42,007032,Height of sensor above local ground (or deck of marine platform),2.0,m
+43,1,43,004023,Time period or displacement,0.0,d
+44,1,44,004004,Hour,12.0,h
+45,1,45,004005,Minute,0.0,min
+46,1,46,004006,Second,1.0,s
+47,1,47,008023,First-order statistics,2.0,Code table
+48,1,48,204008,Operator,,
+49,1,49,031021,Associated field significance,5.0,Code table
+50,1,50,,Associated field,0.0,
+51,1,51,012101,Temperature/air temperature,291.75,K
+52,1,52,204000,Operator,,
+53,1,53,004023,Time period or displacement,0.0,d
+54,1,54,004004,Hour,0.0,h
+55,1,55,004005,Minute,0.0,min
+56,1,56,004006,Second,1.0,s
+57,1,57,008023,First-order statistics,3.0,Code table
+58,1,58,204008,Operator,,
+59,1,59,031021,Associated field significance,5.0,Code table
+60,1,60,,Associated field,0.0,
+61,1,61,012101,Temperature/air temperature,284.05,K
+62,1,62,204000,Operator,,
+63,1,63,004023,Time period or displacement,0.0,d
+64,1,64,004004,Hour,4.0,h
+65,1,65,004005,Minute,0.0,min
+66,1,66,004006,Second,1.0,s
+67,1,67,008023,First-order statistics,4.0,Code table
+68,1,68,204008,Operator,,
+69,1,69,031021,Associated field significance,5.0,Code table
+70,1,70,,Associated field,0.0,
+71,1,71,012101,Temperature/air temperature,286.95,K
+72,1,72,204000,Operator,,
+73,1,73,008023,First-order statistics,,Code table
+0,2,0,001125,WIGOS identifier series,0.0,Numeric
+1,2,1,001126,WIGOS issuer of identifier,20000.0,Numeric
+2,2,2,001127,WIGOS issue number,0.0,Numeric
+3,2,3,001128,WIGOS local identifier (character),71805,CCITT IA5
+4,2,4,001001,WMO block number,71.0,Numeric
+5,2,5,001002,WMO station number,805.0,Numeric
+6,2,6,005001,Latitude (high accuracy),46.76633,deg
+7,2,7,006001,Longitude (high accuracy),-56.179170000000006,deg
+8,2,8,007030,Height of station ground above mean sea level,21.0,m
+9,2,9,008095,Siting and measurement quality classification for temperature,,Code table
+10,2,10,008096,Siting and measurement quality classification for precipitation,,Code table
+11,2,11,008094,Method used to calculate the average daily temperature,2,Code table
+12,2,12,004001,Year,2021.0,a
+13,2,13,004002,Month,10.0,mon
+14,2,14,004003,Day,3.0,d
+15,2,15,004023,Time period or displacement,0.0,d
+16,2,16,004004,Hour,12.0,h
+17,2,17,004005,Minute,0.0,min
+18,2,18,004006,Second,1.0,s
+19,2,19,204008,Operator,,
+20,2,20,031021,Associated field significance,5,Code table
+21,2,21,,Associated field,0,
+22,2,22,013060,Total accumulated precipitation,3.6,kg m-2
+23,2,23,204000,Operator,,
+24,2,24,004023,Time period or displacement,0.0,d
+25,2,25,004004,Hour,12.0,h
+26,2,26,004005,Minute,0.0,min
+27,2,27,004006,Second,1.0,s
+28,2,28,204008,Operator,,
+29,2,29,031021,Associated field significance,5,Code table
+30,2,30,,Associated field,0,
+31,2,31,013012,Depth of fresh snow (depth of snowfall),0.0,m
+32,2,32,204000,Operator,,
+33,2,33,004023,Time period or displacement,0.0,d
+34,2,34,004004,Hour,12.0,h
+35,2,35,004005,Minute,0.0,min
+36,2,36,004006,Second,0.0,s
+37,2,37,204008,Operator,,
+38,2,38,031021,Associated field significance,5,Code table
+39,2,39,,Associated field,0,
+40,2,40,013013,Total snow depth (snow depth),0.0,m
+41,2,41,204000,Operator,,
+42,2,42,007032,Height of sensor above local ground (or deck of marine platform),2.0,m
+43,2,43,004023,Time period or displacement,0.0,d
+44,2,44,004004,Hour,12.0,h
+45,2,45,004005,Minute,0.0,min
+46,2,46,004006,Second,1.0,s
+47,2,47,008023,First-order statistics,2.0,Code table
+48,2,48,204008,Operator,,
+49,2,49,031021,Associated field significance,5.0,Code table
+50,2,50,,Associated field,0.0,
+51,2,51,012101,Temperature/air temperature,289.55,K
+52,2,52,204000,Operator,,
+53,2,53,004023,Time period or displacement,0.0,d
+54,2,54,004004,Hour,0.0,h
+55,2,55,004005,Minute,0.0,min
+56,2,56,004006,Second,1.0,s
+57,2,57,008023,First-order statistics,3.0,Code table
+58,2,58,204008,Operator,,
+59,2,59,031021,Associated field significance,5.0,Code table
+60,2,60,,Associated field,0.0,
+61,2,61,012101,Temperature/air temperature,282.65000000000003,K
+62,2,62,204000,Operator,,
+63,2,63,004023,Time period or displacement,0.0,d
+64,2,64,004004,Hour,4.0,h
+65,2,65,004005,Minute,0.0,min
+66,2,66,004006,Second,1.0,s
+67,2,67,008023,First-order statistics,4.0,Code table
+68,2,68,204008,Operator,,
+69,2,69,031021,Associated field significance,5.0,Code table
+70,2,70,,Associated field,0.0,
+71,2,71,012101,Temperature/air temperature,285.05,K
+72,2,72,204000,Operator,,
+73,2,73,008023,First-order statistics,,Code table
+0,3,0,001125,WIGOS identifier series,0.0,Numeric
+1,3,1,001126,WIGOS issuer of identifier,20000.0,Numeric
+2,3,2,001127,WIGOS issue number,0.0,Numeric
+3,3,3,001128,WIGOS local identifier (character),71805,CCITT IA5
+4,3,4,001001,WMO block number,71.0,Numeric
+5,3,5,001002,WMO station number,805.0,Numeric
+6,3,6,005001,Latitude (high accuracy),46.76633,deg
+7,3,7,006001,Longitude (high accuracy),-56.179170000000006,deg
+8,3,8,007030,Height of station ground above mean sea level,21.0,m
+9,3,9,008095,Siting and measurement quality classification for temperature,,Code table
+10,3,10,008096,Siting and measurement quality classification for precipitation,,Code table
+11,3,11,008094,Method used to calculate the average daily temperature,2,Code table
+12,3,12,004001,Year,2021.0,a
+13,3,13,004002,Month,10.0,mon
+14,3,14,004003,Day,4.0,d
+15,3,15,004023,Time period or displacement,0.0,d
+16,3,16,004004,Hour,12.0,h
+17,3,17,004005,Minute,0.0,min
+18,3,18,004006,Second,1.0,s
+19,3,19,204008,Operator,,
+20,3,20,031021,Associated field significance,5,Code table
+21,3,21,,Associated field,0,
+22,3,22,013060,Total accumulated precipitation,2.4000000000000004,kg m-2
+23,3,23,204000,Operator,,
+24,3,24,004023,Time period or displacement,0.0,d
+25,3,25,004004,Hour,12.0,h
+26,3,26,004005,Minute,0.0,min
+27,3,27,004006,Second,1.0,s
+28,3,28,204008,Operator,,
+29,3,29,031021,Associated field significance,5,Code table
+30,3,30,,Associated field,0,
+31,3,31,013012,Depth of fresh snow (depth of snowfall),0.0,m
+32,3,32,204000,Operator,,
+33,3,33,004023,Time period or displacement,0.0,d
+34,3,34,004004,Hour,12.0,h
+35,3,35,004005,Minute,0.0,min
+36,3,36,004006,Second,0.0,s
+37,3,37,204008,Operator,,
+38,3,38,031021,Associated field significance,5,Code table
+39,3,39,,Associated field,0,
+40,3,40,013013,Total snow depth (snow depth),0.0,m
+41,3,41,204000,Operator,,
+42,3,42,007032,Height of sensor above local ground (or deck of marine platform),2.0,m
+43,3,43,004023,Time period or displacement,0.0,d
+44,3,44,004004,Hour,12.0,h
+45,3,45,004005,Minute,0.0,min
+46,3,46,004006,Second,1.0,s
+47,3,47,008023,First-order statistics,2.0,Code table
+48,3,48,204008,Operator,,
+49,3,49,031021,Associated field significance,5.0,Code table
+50,3,50,,Associated field,0.0,
+51,3,51,012101,Temperature/air temperature,287.45,K
+52,3,52,204000,Operator,,
+53,3,53,004023,Time period or displacement,0.0,d
+54,3,54,004004,Hour,0.0,h
+55,3,55,004005,Minute,0.0,min
+56,3,56,004006,Second,1.0,s
+57,3,57,008023,First-order statistics,3.0,Code table
+58,3,58,204008,Operator,,
+59,3,59,031021,Associated field significance,5.0,Code table
+60,3,60,,Associated field,0.0,
+61,3,61,012101,Temperature/air temperature,282.05,K
+62,3,62,204000,Operator,,
+63,3,63,004023,Time period or displacement,0.0,d
+64,3,64,004004,Hour,4.0,h
+65,3,65,004005,Minute,0.0,min
+66,3,66,004006,Second,1.0,s
+67,3,67,008023,First-order statistics,4.0,Code table
+68,3,68,204008,Operator,,
+69,3,69,031021,Associated field significance,5.0,Code table
+70,3,70,,Associated field,0.0,
+71,3,71,012101,Temperature/air temperature,283.85,K
+72,3,72,204000,Operator,,
+73,3,73,008023,First-order statistics,,Code table
+0,4,0,001125,WIGOS identifier series,0.0,Numeric
+1,4,1,001126,WIGOS issuer of identifier,20000.0,Numeric
+2,4,2,001127,WIGOS issue number,0.0,Numeric
+3,4,3,001128,WIGOS local identifier (character),71805,CCITT IA5
+4,4,4,001001,WMO block number,71.0,Numeric
+5,4,5,001002,WMO station number,805.0,Numeric
+6,4,6,005001,Latitude (high accuracy),46.76633,deg
+7,4,7,006001,Longitude (high accuracy),-56.179170000000006,deg
+8,4,8,007030,Height of station ground above mean sea level,21.0,m
+9,4,9,008095,Siting and measurement quality classification for temperature,,Code table
+10,4,10,008096,Siting and measurement quality classification for precipitation,,Code table
+11,4,11,008094,Method used to calculate the average daily temperature,2,Code table
+12,4,12,004001,Year,2021.0,a
+13,4,13,004002,Month,10.0,mon
+14,4,14,004003,Day,5.0,d
+15,4,15,004023,Time period or displacement,0.0,d
+16,4,16,004004,Hour,12.0,h
+17,4,17,004005,Minute,0.0,min
+18,4,18,004006,Second,1.0,s
+19,4,19,204008,Operator,,
+20,4,20,031021,Associated field significance,5,Code table
+21,4,21,,Associated field,0,
+22,4,22,013060,Total accumulated precipitation,0.0,kg m-2
+23,4,23,204000,Operator,,
+24,4,24,004023,Time period or displacement,0.0,d
+25,4,25,004004,Hour,12.0,h
+26,4,26,004005,Minute,0.0,min
+27,4,27,004006,Second,1.0,s
+28,4,28,204008,Operator,,
+29,4,29,031021,Associated field significance,5,Code table
+30,4,30,,Associated field,0,
+31,4,31,013012,Depth of fresh snow (depth of snowfall),0.0,m
+32,4,32,204000,Operator,,
+33,4,33,004023,Time period or displacement,0.0,d
+34,4,34,004004,Hour,12.0,h
+35,4,35,004005,Minute,0.0,min
+36,4,36,004006,Second,0.0,s
+37,4,37,204008,Operator,,
+38,4,38,031021,Associated field significance,5,Code table
+39,4,39,,Associated field,0,
+40,4,40,013013,Total snow depth (snow depth),0.0,m
+41,4,41,204000,Operator,,
+42,4,42,007032,Height of sensor above local ground (or deck of marine platform),2.0,m
+43,4,43,004023,Time period or displacement,0.0,d
+44,4,44,004004,Hour,12.0,h
+45,4,45,004005,Minute,0.0,min
+46,4,46,004006,Second,1.0,s
+47,4,47,008023,First-order statistics,2.0,Code table
+48,4,48,204008,Operator,,
+49,4,49,031021,Associated field significance,5.0,Code table
+50,4,50,,Associated field,0.0,
+51,4,51,012101,Temperature/air temperature,287.55,K
+52,4,52,204000,Operator,,
+53,4,53,004023,Time period or displacement,0.0,d
+54,4,54,004004,Hour,0.0,h
+55,4,55,004005,Minute,0.0,min
+56,4,56,004006,Second,1.0,s
+57,4,57,008023,First-order statistics,3.0,Code table
+58,4,58,204008,Operator,,
+59,4,59,031021,Associated field significance,5.0,Code table
+60,4,60,,Associated field,0.0,
+61,4,61,012101,Temperature/air temperature,280.65000000000003,K
+62,4,62,204000,Operator,,
+63,4,63,004023,Time period or displacement,0.0,d
+64,4,64,004004,Hour,4.0,h
+65,4,65,004005,Minute,0.0,min
+66,4,66,004006,Second,1.0,s
+67,4,67,008023,First-order statistics,4.0,Code table
+68,4,68,204008,Operator,,
+69,4,69,031021,Associated field significance,5.0,Code table
+70,4,70,,Associated field,0.0,
+71,4,71,012101,Temperature/air temperature,283.85,K
+72,4,72,204000,Operator,,
+73,4,73,008023,First-order statistics,,Code table
+0,5,0,001125,WIGOS identifier series,0.0,Numeric
+1,5,1,001126,WIGOS issuer of identifier,20000.0,Numeric
+2,5,2,001127,WIGOS issue number,0.0,Numeric
+3,5,3,001128,WIGOS local identifier (character),71805,CCITT IA5
+4,5,4,001001,WMO block number,71.0,Numeric
+5,5,5,001002,WMO station number,805.0,Numeric
+6,5,6,005001,Latitude (high accuracy),46.76633,deg
+7,5,7,006001,Longitude (high accuracy),-56.179170000000006,deg
+8,5,8,007030,Height of station ground above mean sea level,21.0,m
+9,5,9,008095,Siting and measurement quality classification for temperature,,Code table
+10,5,10,008096,Siting and measurement quality classification for precipitation,,Code table
+11,5,11,008094,Method used to calculate the average daily temperature,2,Code table
+12,5,12,004001,Year,2021.0,a
+13,5,13,004002,Month,10.0,mon
+14,5,14,004003,Day,6.0,d
+15,5,15,004023,Time period or displacement,0.0,d
+16,5,16,004004,Hour,12.0,h
+17,5,17,004005,Minute,0.0,min
+18,5,18,004006,Second,1.0,s
+19,5,19,204008,Operator,,
+20,5,20,031021,Associated field significance,5,Code table
+21,5,21,,Associated field,0,
+22,5,22,013060,Total accumulated precipitation,0.0,kg m-2
+23,5,23,204000,Operator,,
+24,5,24,004023,Time period or displacement,0.0,d
+25,5,25,004004,Hour,12.0,h
+26,5,26,004005,Minute,0.0,min
+27,5,27,004006,Second,1.0,s
+28,5,28,204008,Operator,,
+29,5,29,031021,Associated field significance,5,Code table
+30,5,30,,Associated field,0,
+31,5,31,013012,Depth of fresh snow (depth of snowfall),0.0,m
+32,5,32,204000,Operator,,
+33,5,33,004023,Time period or displacement,0.0,d
+34,5,34,004004,Hour,12.0,h
+35,5,35,004005,Minute,0.0,min
+36,5,36,004006,Second,0.0,s
+37,5,37,204008,Operator,,
+38,5,38,031021,Associated field significance,5,Code table
+39,5,39,,Associated field,0,
+40,5,40,013013,Total snow depth (snow depth),0.0,m
+41,5,41,204000,Operator,,
+42,5,42,007032,Height of sensor above local ground (or deck of marine platform),2.0,m
+43,5,43,004023,Time period or displacement,0.0,d
+44,5,44,004004,Hour,12.0,h
+45,5,45,004005,Minute,0.0,min
+46,5,46,004006,Second,1.0,s
+47,5,47,008023,First-order statistics,2.0,Code table
+48,5,48,204008,Operator,,
+49,5,49,031021,Associated field significance,5.0,Code table
+50,5,50,,Associated field,0.0,
+51,5,51,012101,Temperature/air temperature,290.15000000000003,K
+52,5,52,204000,Operator,,
+53,5,53,004023,Time period or displacement,0.0,d
+54,5,54,004004,Hour,0.0,h
+55,5,55,004005,Minute,0.0,min
+56,5,56,004006,Second,1.0,s
+57,5,57,008023,First-order statistics,3.0,Code table
+58,5,58,204008,Operator,,
+59,5,59,031021,Associated field significance,5.0,Code table
+60,5,60,,Associated field,0.0,
+61,5,61,012101,Temperature/air temperature,282.15000000000003,K
+62,5,62,204000,Operator,,
+63,5,63,004023,Time period or displacement,0.0,d
+64,5,64,004004,Hour,4.0,h
+65,5,65,004005,Minute,0.0,min
+66,5,66,004006,Second,1.0,s
+67,5,67,008023,First-order statistics,4.0,Code table
+68,5,68,204008,Operator,,
+69,5,69,031021,Associated field significance,5.0,Code table
+70,5,70,,Associated field,0.0,
+71,5,71,012101,Temperature/air temperature,286.65000000000003,K
+72,5,72,204000,Operator,,
+73,5,73,008023,First-order statistics,,Code table
+0,6,0,001125,WIGOS identifier series,0.0,Numeric
+1,6,1,001126,WIGOS issuer of identifier,20000.0,Numeric
+2,6,2,001127,WIGOS issue number,0.0,Numeric
+3,6,3,001128,WIGOS local identifier (character),71805,CCITT IA5
+4,6,4,001001,WMO block number,71.0,Numeric
+5,6,5,001002,WMO station number,805.0,Numeric
+6,6,6,005001,Latitude (high accuracy),46.76633,deg
+7,6,7,006001,Longitude (high accuracy),-56.179170000000006,deg
+8,6,8,007030,Height of station ground above mean sea level,21.0,m
+9,6,9,008095,Siting and measurement quality classification for temperature,,Code table
+10,6,10,008096,Siting and measurement quality classification for precipitation,,Code table
+11,6,11,008094,Method used to calculate the average daily temperature,2,Code table
+12,6,12,004001,Year,2021.0,a
+13,6,13,004002,Month,10.0,mon
+14,6,14,004003,Day,7.0,d
+15,6,15,004023,Time period or displacement,0.0,d
+16,6,16,004004,Hour,12.0,h
+17,6,17,004005,Minute,0.0,min
+18,6,18,004006,Second,1.0,s
+19,6,19,204008,Operator,,
+20,6,20,031021,Associated field significance,5,Code table
+21,6,21,,Associated field,0,
+22,6,22,013060,Total accumulated precipitation,16.1,kg m-2
+23,6,23,204000,Operator,,
+24,6,24,004023,Time period or displacement,0.0,d
+25,6,25,004004,Hour,12.0,h
+26,6,26,004005,Minute,0.0,min
+27,6,27,004006,Second,1.0,s
+28,6,28,204008,Operator,,
+29,6,29,031021,Associated field significance,5,Code table
+30,6,30,,Associated field,0,
+31,6,31,013012,Depth of fresh snow (depth of snowfall),0.0,m
+32,6,32,204000,Operator,,
+33,6,33,004023,Time period or displacement,0.0,d
+34,6,34,004004,Hour,12.0,h
+35,6,35,004005,Minute,0.0,min
+36,6,36,004006,Second,0.0,s
+37,6,37,204008,Operator,,
+38,6,38,031021,Associated field significance,5,Code table
+39,6,39,,Associated field,0,
+40,6,40,013013,Total snow depth (snow depth),0.0,m
+41,6,41,204000,Operator,,
+42,6,42,007032,Height of sensor above local ground (or deck of marine platform),2.0,m
+43,6,43,004023,Time period or displacement,0.0,d
+44,6,44,004004,Hour,12.0,h
+45,6,45,004005,Minute,0.0,min
+46,6,46,004006,Second,1.0,s
+47,6,47,008023,First-order statistics,2.0,Code table
+48,6,48,204008,Operator,,
+49,6,49,031021,Associated field significance,5.0,Code table
+50,6,50,,Associated field,0.0,
+51,6,51,012101,Temperature/air temperature,290.05,K
+52,6,52,204000,Operator,,
+53,6,53,004023,Time period or displacement,0.0,d
+54,6,54,004004,Hour,0.0,h
+55,6,55,004005,Minute,0.0,min
+56,6,56,004006,Second,1.0,s
+57,6,57,008023,First-order statistics,3.0,Code table
+58,6,58,204008,Operator,,
+59,6,59,031021,Associated field significance,5.0,Code table
+60,6,60,,Associated field,0.0,
+61,6,61,012101,Temperature/air temperature,284.15000000000003,K
+62,6,62,204000,Operator,,
+63,6,63,004023,Time period or displacement,0.0,d
+64,6,64,004004,Hour,4.0,h
+65,6,65,004005,Minute,0.0,min
+66,6,66,004006,Second,1.0,s
+67,6,67,008023,First-order statistics,4.0,Code table
+68,6,68,204008,Operator,,
+69,6,69,031021,Associated field significance,5.0,Code table
+70,6,70,,Associated field,0.0,
+71,6,71,012101,Temperature/air temperature,286.55,K
+72,6,72,204000,Operator,,
+73,6,73,008023,First-order statistics,,Code table
+0,7,0,001125,WIGOS identifier series,0.0,Numeric
+1,7,1,001126,WIGOS issuer of identifier,20000.0,Numeric
+2,7,2,001127,WIGOS issue number,0.0,Numeric
+3,7,3,001128,WIGOS local identifier (character),71805,CCITT IA5
+4,7,4,001001,WMO block number,71.0,Numeric
+5,7,5,001002,WMO station number,805.0,Numeric
+6,7,6,005001,Latitude (high accuracy),46.76633,deg
+7,7,7,006001,Longitude (high accuracy),-56.179170000000006,deg
+8,7,8,007030,Height of station ground above mean sea level,21.0,m
+9,7,9,008095,Siting and measurement quality classification for temperature,,Code table
+10,7,10,008096,Siting and measurement quality classification for precipitation,,Code table
+11,7,11,008094,Method used to calculate the average daily temperature,2,Code table
+12,7,12,004001,Year,2021.0,a
+13,7,13,004002,Month,10.0,mon
+14,7,14,004003,Day,8.0,d
+15,7,15,004023,Time period or displacement,0.0,d
+16,7,16,004004,Hour,12.0,h
+17,7,17,004005,Minute,0.0,min
+18,7,18,004006,Second,1.0,s
+19,7,19,204008,Operator,,
+20,7,20,031021,Associated field significance,5,Code table
+21,7,21,,Associated field,0,
+22,7,22,013060,Total accumulated precipitation,0.2,kg m-2
+23,7,23,204000,Operator,,
+24,7,24,004023,Time period or displacement,0.0,d
+25,7,25,004004,Hour,12.0,h
+26,7,26,004005,Minute,0.0,min
+27,7,27,004006,Second,1.0,s
+28,7,28,204008,Operator,,
+29,7,29,031021,Associated field significance,5,Code table
+30,7,30,,Associated field,0,
+31,7,31,013012,Depth of fresh snow (depth of snowfall),0.0,m
+32,7,32,204000,Operator,,
+33,7,33,004023,Time period or displacement,0.0,d
+34,7,34,004004,Hour,12.0,h
+35,7,35,004005,Minute,0.0,min
+36,7,36,004006,Second,0.0,s
+37,7,37,204008,Operator,,
+38,7,38,031021,Associated field significance,5,Code table
+39,7,39,,Associated field,0,
+40,7,40,013013,Total snow depth (snow depth),0.0,m
+41,7,41,204000,Operator,,
+42,7,42,007032,Height of sensor above local ground (or deck of marine platform),2.0,m
+43,7,43,004023,Time period or displacement,0.0,d
+44,7,44,004004,Hour,12.0,h
+45,7,45,004005,Minute,0.0,min
+46,7,46,004006,Second,1.0,s
+47,7,47,008023,First-order statistics,2.0,Code table
+48,7,48,204008,Operator,,
+49,7,49,031021,Associated field significance,5.0,Code table
+50,7,50,,Associated field,0.0,
+51,7,51,012101,Temperature/air temperature,283.75,K
+52,7,52,204000,Operator,,
+53,7,53,004023,Time period or displacement,0.0,d
+54,7,54,004004,Hour,0.0,h
+55,7,55,004005,Minute,0.0,min
+56,7,56,004006,Second,1.0,s
+57,7,57,008023,First-order statistics,3.0,Code table
+58,7,58,204008,Operator,,
+59,7,59,031021,Associated field significance,5.0,Code table
+60,7,60,,Associated field,0.0,
+61,7,61,012101,Temperature/air temperature,278.95,K
+62,7,62,204000,Operator,,
+63,7,63,004023,Time period or displacement,0.0,d
+64,7,64,004004,Hour,4.0,h
+65,7,65,004005,Minute,0.0,min
+66,7,66,004006,Second,1.0,s
+67,7,67,008023,First-order statistics,4.0,Code table
+68,7,68,204008,Operator,,
+69,7,69,031021,Associated field significance,5.0,Code table
+70,7,70,,Associated field,0.0,
+71,7,71,012101,Temperature/air temperature,281.85,K
+72,7,72,204000,Operator,,
+73,7,73,008023,First-order statistics,,Code table
+0,8,0,001125,WIGOS identifier series,0.0,Numeric
+1,8,1,001126,WIGOS issuer of identifier,20000.0,Numeric
+2,8,2,001127,WIGOS issue number,0.0,Numeric
+3,8,3,001128,WIGOS local identifier (character),71805,CCITT IA5
+4,8,4,001001,WMO block number,71.0,Numeric
+5,8,5,001002,WMO station number,805.0,Numeric
+6,8,6,005001,Latitude (high accuracy),46.76633,deg
+7,8,7,006001,Longitude (high accuracy),-56.179170000000006,deg
+8,8,8,007030,Height of station ground above mean sea level,21.0,m
+9,8,9,008095,Siting and measurement quality classification for temperature,,Code table
+10,8,10,008096,Siting and measurement quality classification for precipitation,,Code table
+11,8,11,008094,Method used to calculate the average daily temperature,2,Code table
+12,8,12,004001,Year,2021.0,a
+13,8,13,004002,Month,10.0,mon
+14,8,14,004003,Day,9.0,d
+15,8,15,004023,Time period or displacement,0.0,d
+16,8,16,004004,Hour,12.0,h
+17,8,17,004005,Minute,0.0,min
+18,8,18,004006,Second,1.0,s
+19,8,19,204008,Operator,,
+20,8,20,031021,Associated field significance,5,Code table
+21,8,21,,Associated field,0,
+22,8,22,013060,Total accumulated precipitation,0.0,kg m-2
+23,8,23,204000,Operator,,
+24,8,24,004023,Time period or displacement,0.0,d
+25,8,25,004004,Hour,12.0,h
+26,8,26,004005,Minute,0.0,min
+27,8,27,004006,Second,1.0,s
+28,8,28,204008,Operator,,
+29,8,29,031021,Associated field significance,5,Code table
+30,8,30,,Associated field,0,
+31,8,31,013012,Depth of fresh snow (depth of snowfall),0.0,m
+32,8,32,204000,Operator,,
+33,8,33,004023,Time period or displacement,0.0,d
+34,8,34,004004,Hour,12.0,h
+35,8,35,004005,Minute,0.0,min
+36,8,36,004006,Second,0.0,s
+37,8,37,204008,Operator,,
+38,8,38,031021,Associated field significance,5,Code table
+39,8,39,,Associated field,0,
+40,8,40,013013,Total snow depth (snow depth),0.0,m
+41,8,41,204000,Operator,,
+42,8,42,007032,Height of sensor above local ground (or deck of marine platform),2.0,m
+43,8,43,004023,Time period or displacement,0.0,d
+44,8,44,004004,Hour,12.0,h
+45,8,45,004005,Minute,0.0,min
+46,8,46,004006,Second,1.0,s
+47,8,47,008023,First-order statistics,2.0,Code table
+48,8,48,204008,Operator,,
+49,8,49,031021,Associated field significance,5.0,Code table
+50,8,50,,Associated field,0.0,
+51,8,51,012101,Temperature/air temperature,284.05,K
+52,8,52,204000,Operator,,
+53,8,53,004023,Time period or displacement,0.0,d
+54,8,54,004004,Hour,0.0,h
+55,8,55,004005,Minute,0.0,min
+56,8,56,004006,Second,1.0,s
+57,8,57,008023,First-order statistics,3.0,Code table
+58,8,58,204008,Operator,,
+59,8,59,031021,Associated field significance,5.0,Code table
+60,8,60,,Associated field,0.0,
+61,8,61,012101,Temperature/air temperature,279.95,K
+62,8,62,204000,Operator,,
+63,8,63,004023,Time period or displacement,0.0,d
+64,8,64,004004,Hour,4.0,h
+65,8,65,004005,Minute,0.0,min
+66,8,66,004006,Second,1.0,s
+67,8,67,008023,First-order statistics,4.0,Code table
+68,8,68,204008,Operator,,
+69,8,69,031021,Associated field significance,5.0,Code table
+70,8,70,,Associated field,0.0,
+71,8,71,012101,Temperature/air temperature,281.65000000000003,K
+72,8,72,204000,Operator,,
+73,8,73,008023,First-order statistics,,Code table
+0,9,0,001125,WIGOS identifier series,0.0,Numeric
+1,9,1,001126,WIGOS issuer of identifier,20000.0,Numeric
+2,9,2,001127,WIGOS issue number,0.0,Numeric
+3,9,3,001128,WIGOS local identifier (character),71805,CCITT IA5
+4,9,4,001001,WMO block number,71.0,Numeric
+5,9,5,001002,WMO station number,805.0,Numeric
+6,9,6,005001,Latitude (high accuracy),46.76633,deg
+7,9,7,006001,Longitude (high accuracy),-56.179170000000006,deg
+8,9,8,007030,Height of station ground above mean sea level,21.0,m
+9,9,9,008095,Siting and measurement quality classification for temperature,,Code table
+10,9,10,008096,Siting and measurement quality classification for precipitation,,Code table
+11,9,11,008094,Method used to calculate the average daily temperature,2,Code table
+12,9,12,004001,Year,2021.0,a
+13,9,13,004002,Month,10.0,mon
+14,9,14,004003,Day,10.0,d
+15,9,15,004023,Time period or displacement,0.0,d
+16,9,16,004004,Hour,12.0,h
+17,9,17,004005,Minute,0.0,min
+18,9,18,004006,Second,1.0,s
+19,9,19,204008,Operator,,
+20,9,20,031021,Associated field significance,5,Code table
+21,9,21,,Associated field,0,
+22,9,22,013060,Total accumulated precipitation,0.0,kg m-2
+23,9,23,204000,Operator,,
+24,9,24,004023,Time period or displacement,0.0,d
+25,9,25,004004,Hour,12.0,h
+26,9,26,004005,Minute,0.0,min
+27,9,27,004006,Second,1.0,s
+28,9,28,204008,Operator,,
+29,9,29,031021,Associated field significance,5,Code table
+30,9,30,,Associated field,6,
+31,9,31,013012,Depth of fresh snow (depth of snowfall),,m
+32,9,32,204000,Operator,,
+33,9,33,004023,Time period or displacement,0.0,d
+34,9,34,004004,Hour,12.0,h
+35,9,35,004005,Minute,0.0,min
+36,9,36,004006,Second,0.0,s
+37,9,37,204008,Operator,,
+38,9,38,031021,Associated field significance,5,Code table
+39,9,39,,Associated field,0,
+40,9,40,013013,Total snow depth (snow depth),0.0,m
+41,9,41,204000,Operator,,
+42,9,42,007032,Height of sensor above local ground (or deck of marine platform),2.0,m
+43,9,43,004023,Time period or displacement,0.0,d
+44,9,44,004004,Hour,12.0,h
+45,9,45,004005,Minute,0.0,min
+46,9,46,004006,Second,1.0,s
+47,9,47,008023,First-order statistics,2.0,Code table
+48,9,48,204008,Operator,,
+49,9,49,031021,Associated field significance,5.0,Code table
+50,9,50,,Associated field,0.0,
+51,9,51,012101,Temperature/air temperature,286.95,K
+52,9,52,204000,Operator,,
+53,9,53,004023,Time period or displacement,0.0,d
+54,9,54,004004,Hour,0.0,h
+55,9,55,004005,Minute,0.0,min
+56,9,56,004006,Second,1.0,s
+57,9,57,008023,First-order statistics,3.0,Code table
+58,9,58,204008,Operator,,
+59,9,59,031021,Associated field significance,5.0,Code table
+60,9,60,,Associated field,0.0,
+61,9,61,012101,Temperature/air temperature,279.65000000000003,K
+62,9,62,204000,Operator,,
+63,9,63,004023,Time period or displacement,0.0,d
+64,9,64,004004,Hour,4.0,h
+65,9,65,004005,Minute,0.0,min
+66,9,66,004006,Second,1.0,s
+67,9,67,008023,First-order statistics,4.0,Code table
+68,9,68,204008,Operator,,
+69,9,69,031021,Associated field significance,5.0,Code table
+70,9,70,,Associated field,0.0,
+71,9,71,012101,Temperature/air temperature,283.45,K
+72,9,72,204000,Operator,,
+73,9,73,008023,First-order statistics,,Code table
+0,10,0,001125,WIGOS identifier series,0.0,Numeric
+1,10,1,001126,WIGOS issuer of identifier,20000.0,Numeric
+2,10,2,001127,WIGOS issue number,0.0,Numeric
+3,10,3,001128,WIGOS local identifier (character),71805,CCITT IA5
+4,10,4,001001,WMO block number,71.0,Numeric
+5,10,5,001002,WMO station number,805.0,Numeric
+6,10,6,005001,Latitude (high accuracy),46.76633,deg
+7,10,7,006001,Longitude (high accuracy),-56.179170000000006,deg
+8,10,8,007030,Height of station ground above mean sea level,21.0,m
+9,10,9,008095,Siting and measurement quality classification for temperature,,Code table
+10,10,10,008096,Siting and measurement quality classification for precipitation,,Code table
+11,10,11,008094,Method used to calculate the average daily temperature,2,Code table
+12,10,12,004001,Year,2021.0,a
+13,10,13,004002,Month,10.0,mon
+14,10,14,004003,Day,11.0,d
+15,10,15,004023,Time period or displacement,0.0,d
+16,10,16,004004,Hour,12.0,h
+17,10,17,004005,Minute,0.0,min
+18,10,18,004006,Second,1.0,s
+19,10,19,204008,Operator,,
+20,10,20,031021,Associated field significance,5,Code table
+21,10,21,,Associated field,0,
+22,10,22,013060,Total accumulated precipitation,0.2,kg m-2
+23,10,23,204000,Operator,,
+24,10,24,004023,Time period or displacement,0.0,d
+25,10,25,004004,Hour,12.0,h
+26,10,26,004005,Minute,0.0,min
+27,10,27,004006,Second,1.0,s
+28,10,28,204008,Operator,,
+29,10,29,031021,Associated field significance,5,Code table
+30,10,30,,Associated field,0,
+31,10,31,013012,Depth of fresh snow (depth of snowfall),0.0,m
+32,10,32,204000,Operator,,
+33,10,33,004023,Time period or displacement,0.0,d
+34,10,34,004004,Hour,12.0,h
+35,10,35,004005,Minute,0.0,min
+36,10,36,004006,Second,0.0,s
+37,10,37,204008,Operator,,
+38,10,38,031021,Associated field significance,5,Code table
+39,10,39,,Associated field,0,
+40,10,40,013013,Total snow depth (snow depth),0.0,m
+41,10,41,204000,Operator,,
+42,10,42,007032,Height of sensor above local ground (or deck of marine platform),2.0,m
+43,10,43,004023,Time period or displacement,0.0,d
+44,10,44,004004,Hour,12.0,h
+45,10,45,004005,Minute,0.0,min
+46,10,46,004006,Second,1.0,s
+47,10,47,008023,First-order statistics,2.0,Code table
+48,10,48,204008,Operator,,
+49,10,49,031021,Associated field significance,5.0,Code table
+50,10,50,,Associated field,0.0,
+51,10,51,012101,Temperature/air temperature,289.85,K
+52,10,52,204000,Operator,,
+53,10,53,004023,Time period or displacement,0.0,d
+54,10,54,004004,Hour,0.0,h
+55,10,55,004005,Minute,0.0,min
+56,10,56,004006,Second,1.0,s
+57,10,57,008023,First-order statistics,3.0,Code table
+58,10,58,204008,Operator,,
+59,10,59,031021,Associated field significance,5.0,Code table
+60,10,60,,Associated field,0.0,
+61,10,61,012101,Temperature/air temperature,283.15000000000003,K
+62,10,62,204000,Operator,,
+63,10,63,004023,Time period or displacement,0.0,d
+64,10,64,004004,Hour,4.0,h
+65,10,65,004005,Minute,0.0,min
+66,10,66,004006,Second,1.0,s
+67,10,67,008023,First-order statistics,4.0,Code table
+68,10,68,204008,Operator,,
+69,10,69,031021,Associated field significance,5.0,Code table
+70,10,70,,Associated field,0.0,
+71,10,71,012101,Temperature/air temperature,286.45,K
+72,10,72,204000,Operator,,
+73,10,73,008023,First-order statistics,,Code table
+0,11,0,001125,WIGOS identifier series,0.0,Numeric
+1,11,1,001126,WIGOS issuer of identifier,20000.0,Numeric
+2,11,2,001127,WIGOS issue number,0.0,Numeric
+3,11,3,001128,WIGOS local identifier (character),71805,CCITT IA5
+4,11,4,001001,WMO block number,71.0,Numeric
+5,11,5,001002,WMO station number,805.0,Numeric
+6,11,6,005001,Latitude (high accuracy),46.76633,deg
+7,11,7,006001,Longitude (high accuracy),-56.179170000000006,deg
+8,11,8,007030,Height of station ground above mean sea level,21.0,m
+9,11,9,008095,Siting and measurement quality classification for temperature,,Code table
+10,11,10,008096,Siting and measurement quality classification for precipitation,,Code table
+11,11,11,008094,Method used to calculate the average daily temperature,2,Code table
+12,11,12,004001,Year,2021.0,a
+13,11,13,004002,Month,10.0,mon
+14,11,14,004003,Day,12.0,d
+15,11,15,004023,Time period or displacement,0.0,d
+16,11,16,004004,Hour,12.0,h
+17,11,17,004005,Minute,0.0,min
+18,11,18,004006,Second,1.0,s
+19,11,19,204008,Operator,,
+20,11,20,031021,Associated field significance,5,Code table
+21,11,21,,Associated field,0,
+22,11,22,013060,Total accumulated precipitation,1.4000000000000001,kg m-2
+23,11,23,204000,Operator,,
+24,11,24,004023,Time period or displacement,0.0,d
+25,11,25,004004,Hour,12.0,h
+26,11,26,004005,Minute,0.0,min
+27,11,27,004006,Second,1.0,s
+28,11,28,204008,Operator,,
+29,11,29,031021,Associated field significance,5,Code table
+30,11,30,,Associated field,6,
+31,11,31,013012,Depth of fresh snow (depth of snowfall),,m
+32,11,32,204000,Operator,,
+33,11,33,004023,Time period or displacement,0.0,d
+34,11,34,004004,Hour,12.0,h
+35,11,35,004005,Minute,0.0,min
+36,11,36,004006,Second,0.0,s
+37,11,37,204008,Operator,,
+38,11,38,031021,Associated field significance,5,Code table
+39,11,39,,Associated field,0,
+40,11,40,013013,Total snow depth (snow depth),0.0,m
+41,11,41,204000,Operator,,
+42,11,42,007032,Height of sensor above local ground (or deck of marine platform),2.0,m
+43,11,43,004023,Time period or displacement,0.0,d
+44,11,44,004004,Hour,12.0,h
+45,11,45,004005,Minute,0.0,min
+46,11,46,004006,Second,1.0,s
+47,11,47,008023,First-order statistics,2.0,Code table
+48,11,48,204008,Operator,,
+49,11,49,031021,Associated field significance,5.0,Code table
+50,11,50,,Associated field,0.0,
+51,11,51,012101,Temperature/air temperature,286.75,K
+52,11,52,204000,Operator,,
+53,11,53,004023,Time period or displacement,0.0,d
+54,11,54,004004,Hour,0.0,h
+55,11,55,004005,Minute,0.0,min
+56,11,56,004006,Second,1.0,s
+57,11,57,008023,First-order statistics,3.0,Code table
+58,11,58,204008,Operator,,
+59,11,59,031021,Associated field significance,5.0,Code table
+60,11,60,,Associated field,0.0,
+61,11,61,012101,Temperature/air temperature,282.55,K
+62,11,62,204000,Operator,,
+63,11,63,004023,Time period or displacement,0.0,d
+64,11,64,004004,Hour,4.0,h
+65,11,65,004005,Minute,0.0,min
+66,11,66,004006,Second,1.0,s
+67,11,67,008023,First-order statistics,4.0,Code table
+68,11,68,204008,Operator,,
+69,11,69,031021,Associated field significance,5.0,Code table
+70,11,70,,Associated field,0.0,
+71,11,71,012101,Temperature/air temperature,284.45,K
+72,11,72,204000,Operator,,
+73,11,73,008023,First-order statistics,,Code table
+0,12,0,001125,WIGOS identifier series,0.0,Numeric
+1,12,1,001126,WIGOS issuer of identifier,20000.0,Numeric
+2,12,2,001127,WIGOS issue number,0.0,Numeric
+3,12,3,001128,WIGOS local identifier (character),71805,CCITT IA5
+4,12,4,001001,WMO block number,71.0,Numeric
+5,12,5,001002,WMO station number,805.0,Numeric
+6,12,6,005001,Latitude (high accuracy),46.76633,deg
+7,12,7,006001,Longitude (high accuracy),-56.179170000000006,deg
+8,12,8,007030,Height of station ground above mean sea level,21.0,m
+9,12,9,008095,Siting and measurement quality classification for temperature,,Code table
+10,12,10,008096,Siting and measurement quality classification for precipitation,,Code table
+11,12,11,008094,Method used to calculate the average daily temperature,2,Code table
+12,12,12,004001,Year,2021.0,a
+13,12,13,004002,Month,10.0,mon
+14,12,14,004003,Day,13.0,d
+15,12,15,004023,Time period or displacement,0.0,d
+16,12,16,004004,Hour,12.0,h
+17,12,17,004005,Minute,0.0,min
+18,12,18,004006,Second,1.0,s
+19,12,19,204008,Operator,,
+20,12,20,031021,Associated field significance,5,Code table
+21,12,21,,Associated field,0,
+22,12,22,013060,Total accumulated precipitation,0.0,kg m-2
+23,12,23,204000,Operator,,
+24,12,24,004023,Time period or displacement,0.0,d
+25,12,25,004004,Hour,12.0,h
+26,12,26,004005,Minute,0.0,min
+27,12,27,004006,Second,1.0,s
+28,12,28,204008,Operator,,
+29,12,29,031021,Associated field significance,5,Code table
+30,12,30,,Associated field,6,
+31,12,31,013012,Depth of fresh snow (depth of snowfall),,m
+32,12,32,204000,Operator,,
+33,12,33,004023,Time period or displacement,0.0,d
+34,12,34,004004,Hour,12.0,h
+35,12,35,004005,Minute,0.0,min
+36,12,36,004006,Second,0.0,s
+37,12,37,204008,Operator,,
+38,12,38,031021,Associated field significance,5,Code table
+39,12,39,,Associated field,0,
+40,12,40,013013,Total snow depth (snow depth),0.0,m
+41,12,41,204000,Operator,,
+42,12,42,007032,Height of sensor above local ground (or deck of marine platform),2.0,m
+43,12,43,004023,Time period or displacement,0.0,d
+44,12,44,004004,Hour,12.0,h
+45,12,45,004005,Minute,0.0,min
+46,12,46,004006,Second,1.0,s
+47,12,47,008023,First-order statistics,2.0,Code table
+48,12,48,204008,Operator,,
+49,12,49,031021,Associated field significance,5.0,Code table
+50,12,50,,Associated field,0.0,
+51,12,51,012101,Temperature/air temperature,285.75,K
+52,12,52,204000,Operator,,
+53,12,53,004023,Time period or displacement,0.0,d
+54,12,54,004004,Hour,0.0,h
+55,12,55,004005,Minute,0.0,min
+56,12,56,004006,Second,1.0,s
+57,12,57,008023,First-order statistics,3.0,Code table
+58,12,58,204008,Operator,,
+59,12,59,031021,Associated field significance,5.0,Code table
+60,12,60,,Associated field,0.0,
+61,12,61,012101,Temperature/air temperature,280.75,K
+62,12,62,204000,Operator,,
+63,12,63,004023,Time period or displacement,0.0,d
+64,12,64,004004,Hour,4.0,h
+65,12,65,004005,Minute,0.0,min
+66,12,66,004006,Second,1.0,s
+67,12,67,008023,First-order statistics,4.0,Code table
+68,12,68,204008,Operator,,
+69,12,69,031021,Associated field significance,5.0,Code table
+70,12,70,,Associated field,0.0,
+71,12,71,012101,Temperature/air temperature,282.95,K
+72,12,72,204000,Operator,,
+73,12,73,008023,First-order statistics,,Code table
+0,13,0,001125,WIGOS identifier series,0.0,Numeric
+1,13,1,001126,WIGOS issuer of identifier,20000.0,Numeric
+2,13,2,001127,WIGOS issue number,0.0,Numeric
+3,13,3,001128,WIGOS local identifier (character),71805,CCITT IA5
+4,13,4,001001,WMO block number,71.0,Numeric
+5,13,5,001002,WMO station number,805.0,Numeric
+6,13,6,005001,Latitude (high accuracy),46.76633,deg
+7,13,7,006001,Longitude (high accuracy),-56.179170000000006,deg
+8,13,8,007030,Height of station ground above mean sea level,21.0,m
+9,13,9,008095,Siting and measurement quality classification for temperature,,Code table
+10,13,10,008096,Siting and measurement quality classification for precipitation,,Code table
+11,13,11,008094,Method used to calculate the average daily temperature,2,Code table
+12,13,12,004001,Year,2021.0,a
+13,13,13,004002,Month,10.0,mon
+14,13,14,004003,Day,14.0,d
+15,13,15,004023,Time period or displacement,0.0,d
+16,13,16,004004,Hour,12.0,h
+17,13,17,004005,Minute,0.0,min
+18,13,18,004006,Second,1.0,s
+19,13,19,204008,Operator,,
+20,13,20,031021,Associated field significance,5,Code table
+21,13,21,,Associated field,0,
+22,13,22,013060,Total accumulated precipitation,0.0,kg m-2
+23,13,23,204000,Operator,,
+24,13,24,004023,Time period or displacement,0.0,d
+25,13,25,004004,Hour,12.0,h
+26,13,26,004005,Minute,0.0,min
+27,13,27,004006,Second,1.0,s
+28,13,28,204008,Operator,,
+29,13,29,031021,Associated field significance,5,Code table
+30,13,30,,Associated field,0,
+31,13,31,013012,Depth of fresh snow (depth of snowfall),0.0,m
+32,13,32,204000,Operator,,
+33,13,33,004023,Time period or displacement,0.0,d
+34,13,34,004004,Hour,12.0,h
+35,13,35,004005,Minute,0.0,min
+36,13,36,004006,Second,0.0,s
+37,13,37,204008,Operator,,
+38,13,38,031021,Associated field significance,5,Code table
+39,13,39,,Associated field,0,
+40,13,40,013013,Total snow depth (snow depth),0.0,m
+41,13,41,204000,Operator,,
+42,13,42,007032,Height of sensor above local ground (or deck of marine platform),2.0,m
+43,13,43,004023,Time period or displacement,0.0,d
+44,13,44,004004,Hour,12.0,h
+45,13,45,004005,Minute,0.0,min
+46,13,46,004006,Second,1.0,s
+47,13,47,008023,First-order statistics,2.0,Code table
+48,13,48,204008,Operator,,
+49,13,49,031021,Associated field significance,5.0,Code table
+50,13,50,,Associated field,0.0,
+51,13,51,012101,Temperature/air temperature,285.75,K
+52,13,52,204000,Operator,,
+53,13,53,004023,Time period or displacement,0.0,d
+54,13,54,004004,Hour,0.0,h
+55,13,55,004005,Minute,0.0,min
+56,13,56,004006,Second,1.0,s
+57,13,57,008023,First-order statistics,3.0,Code table
+58,13,58,204008,Operator,,
+59,13,59,031021,Associated field significance,5.0,Code table
+60,13,60,,Associated field,0.0,
+61,13,61,012101,Temperature/air temperature,279.15000000000003,K
+62,13,62,204000,Operator,,
+63,13,63,004023,Time period or displacement,0.0,d
+64,13,64,004004,Hour,4.0,h
+65,13,65,004005,Minute,0.0,min
+66,13,66,004006,Second,1.0,s
+67,13,67,008023,First-order statistics,4.0,Code table
+68,13,68,204008,Operator,,
+69,13,69,031021,Associated field significance,5.0,Code table
+70,13,70,,Associated field,0.0,
+71,13,71,012101,Temperature/air temperature,283.15000000000003,K
+72,13,72,204000,Operator,,
+73,13,73,008023,First-order statistics,,Code table
+0,14,0,001125,WIGOS identifier series,0.0,Numeric
+1,14,1,001126,WIGOS issuer of identifier,20000.0,Numeric
+2,14,2,001127,WIGOS issue number,0.0,Numeric
+3,14,3,001128,WIGOS local identifier (character),71805,CCITT IA5
+4,14,4,001001,WMO block number,71.0,Numeric
+5,14,5,001002,WMO station number,805.0,Numeric
+6,14,6,005001,Latitude (high accuracy),46.76633,deg
+7,14,7,006001,Longitude (high accuracy),-56.179170000000006,deg
+8,14,8,007030,Height of station ground above mean sea level,21.0,m
+9,14,9,008095,Siting and measurement quality classification for temperature,,Code table
+10,14,10,008096,Siting and measurement quality classification for precipitation,,Code table
+11,14,11,008094,Method used to calculate the average daily temperature,2,Code table
+12,14,12,004001,Year,2021.0,a
+13,14,13,004002,Month,10.0,mon
+14,14,14,004003,Day,15.0,d
+15,14,15,004023,Time period or displacement,0.0,d
+16,14,16,004004,Hour,12.0,h
+17,14,17,004005,Minute,0.0,min
+18,14,18,004006,Second,1.0,s
+19,14,19,204008,Operator,,
+20,14,20,031021,Associated field significance,5,Code table
+21,14,21,,Associated field,0,
+22,14,22,013060,Total accumulated precipitation,0.0,kg m-2
+23,14,23,204000,Operator,,
+24,14,24,004023,Time period or displacement,0.0,d
+25,14,25,004004,Hour,12.0,h
+26,14,26,004005,Minute,0.0,min
+27,14,27,004006,Second,1.0,s
+28,14,28,204008,Operator,,
+29,14,29,031021,Associated field significance,5,Code table
+30,14,30,,Associated field,0,
+31,14,31,013012,Depth of fresh snow (depth of snowfall),0.0,m
+32,14,32,204000,Operator,,
+33,14,33,004023,Time period or displacement,0.0,d
+34,14,34,004004,Hour,12.0,h
+35,14,35,004005,Minute,0.0,min
+36,14,36,004006,Second,0.0,s
+37,14,37,204008,Operator,,
+38,14,38,031021,Associated field significance,5,Code table
+39,14,39,,Associated field,0,
+40,14,40,013013,Total snow depth (snow depth),0.0,m
+41,14,41,204000,Operator,,
+42,14,42,007032,Height of sensor above local ground (or deck of marine platform),2.0,m
+43,14,43,004023,Time period or displacement,0.0,d
+44,14,44,004004,Hour,12.0,h
+45,14,45,004005,Minute,0.0,min
+46,14,46,004006,Second,1.0,s
+47,14,47,008023,First-order statistics,2.0,Code table
+48,14,48,204008,Operator,,
+49,14,49,031021,Associated field significance,5.0,Code table
+50,14,50,,Associated field,0.0,
+51,14,51,012101,Temperature/air temperature,289.15000000000003,K
+52,14,52,204000,Operator,,
+53,14,53,004023,Time period or displacement,0.0,d
+54,14,54,004004,Hour,0.0,h
+55,14,55,004005,Minute,0.0,min
+56,14,56,004006,Second,1.0,s
+57,14,57,008023,First-order statistics,3.0,Code table
+58,14,58,204008,Operator,,
+59,14,59,031021,Associated field significance,5.0,Code table
+60,14,60,,Associated field,0.0,
+61,14,61,012101,Temperature/air temperature,282.75,K
+62,14,62,204000,Operator,,
+63,14,63,004023,Time period or displacement,0.0,d
+64,14,64,004004,Hour,4.0,h
+65,14,65,004005,Minute,0.0,min
+66,14,66,004006,Second,1.0,s
+67,14,67,008023,First-order statistics,4.0,Code table
+68,14,68,204008,Operator,,
+69,14,69,031021,Associated field significance,5.0,Code table
+70,14,70,,Associated field,0.0,
+71,14,71,012101,Temperature/air temperature,285.25,K
+72,14,72,204000,Operator,,
+73,14,73,008023,First-order statistics,,Code table
+0,15,0,001125,WIGOS identifier series,0.0,Numeric
+1,15,1,001126,WIGOS issuer of identifier,20000.0,Numeric
+2,15,2,001127,WIGOS issue number,0.0,Numeric
+3,15,3,001128,WIGOS local identifier (character),71805,CCITT IA5
+4,15,4,001001,WMO block number,71.0,Numeric
+5,15,5,001002,WMO station number,805.0,Numeric
+6,15,6,005001,Latitude (high accuracy),46.76633,deg
+7,15,7,006001,Longitude (high accuracy),-56.179170000000006,deg
+8,15,8,007030,Height of station ground above mean sea level,21.0,m
+9,15,9,008095,Siting and measurement quality classification for temperature,,Code table
+10,15,10,008096,Siting and measurement quality classification for precipitation,,Code table
+11,15,11,008094,Method used to calculate the average daily temperature,2,Code table
+12,15,12,004001,Year,2021.0,a
+13,15,13,004002,Month,10.0,mon
+14,15,14,004003,Day,16.0,d
+15,15,15,004023,Time period or displacement,0.0,d
+16,15,16,004004,Hour,12.0,h
+17,15,17,004005,Minute,0.0,min
+18,15,18,004006,Second,1.0,s
+19,15,19,204008,Operator,,
+20,15,20,031021,Associated field significance,5,Code table
+21,15,21,,Associated field,0,
+22,15,22,013060,Total accumulated precipitation,0.0,kg m-2
+23,15,23,204000,Operator,,
+24,15,24,004023,Time period or displacement,0.0,d
+25,15,25,004004,Hour,12.0,h
+26,15,26,004005,Minute,0.0,min
+27,15,27,004006,Second,1.0,s
+28,15,28,204008,Operator,,
+29,15,29,031021,Associated field significance,5,Code table
+30,15,30,,Associated field,6,
+31,15,31,013012,Depth of fresh snow (depth of snowfall),,m
+32,15,32,204000,Operator,,
+33,15,33,004023,Time period or displacement,0.0,d
+34,15,34,004004,Hour,12.0,h
+35,15,35,004005,Minute,0.0,min
+36,15,36,004006,Second,0.0,s
+37,15,37,204008,Operator,,
+38,15,38,031021,Associated field significance,5,Code table
+39,15,39,,Associated field,0,
+40,15,40,013013,Total snow depth (snow depth),0.0,m
+41,15,41,204000,Operator,,
+42,15,42,007032,Height of sensor above local ground (or deck of marine platform),2.0,m
+43,15,43,004023,Time period or displacement,0.0,d
+44,15,44,004004,Hour,12.0,h
+45,15,45,004005,Minute,0.0,min
+46,15,46,004006,Second,1.0,s
+47,15,47,008023,First-order statistics,2.0,Code table
+48,15,48,204008,Operator,,
+49,15,49,031021,Associated field significance,5.0,Code table
+50,15,50,,Associated field,0.0,
+51,15,51,012101,Temperature/air temperature,285.15000000000003,K
+52,15,52,204000,Operator,,
+53,15,53,004023,Time period or displacement,0.0,d
+54,15,54,004004,Hour,0.0,h
+55,15,55,004005,Minute,0.0,min
+56,15,56,004006,Second,1.0,s
+57,15,57,008023,First-order statistics,3.0,Code table
+58,15,58,204008,Operator,,
+59,15,59,031021,Associated field significance,5.0,Code table
+60,15,60,,Associated field,0.0,
+61,15,61,012101,Temperature/air temperature,282.25,K
+62,15,62,204000,Operator,,
+63,15,63,004023,Time period or displacement,0.0,d
+64,15,64,004004,Hour,4.0,h
+65,15,65,004005,Minute,0.0,min
+66,15,66,004006,Second,1.0,s
+67,15,67,008023,First-order statistics,4.0,Code table
+68,15,68,204008,Operator,,
+69,15,69,031021,Associated field significance,5.0,Code table
+70,15,70,,Associated field,0.0,
+71,15,71,012101,Temperature/air temperature,283.45,K
+72,15,72,204000,Operator,,
+73,15,73,008023,First-order statistics,,Code table
+0,16,0,001125,WIGOS identifier series,0.0,Numeric
+1,16,1,001126,WIGOS issuer of identifier,20000.0,Numeric
+2,16,2,001127,WIGOS issue number,0.0,Numeric
+3,16,3,001128,WIGOS local identifier (character),71805,CCITT IA5
+4,16,4,001001,WMO block number,71.0,Numeric
+5,16,5,001002,WMO station number,805.0,Numeric
+6,16,6,005001,Latitude (high accuracy),46.76633,deg
+7,16,7,006001,Longitude (high accuracy),-56.179170000000006,deg
+8,16,8,007030,Height of station ground above mean sea level,21.0,m
+9,16,9,008095,Siting and measurement quality classification for temperature,,Code table
+10,16,10,008096,Siting and measurement quality classification for precipitation,,Code table
+11,16,11,008094,Method used to calculate the average daily temperature,2,Code table
+12,16,12,004001,Year,2021.0,a
+13,16,13,004002,Month,10.0,mon
+14,16,14,004003,Day,17.0,d
+15,16,15,004023,Time period or displacement,0.0,d
+16,16,16,004004,Hour,12.0,h
+17,16,17,004005,Minute,0.0,min
+18,16,18,004006,Second,1.0,s
+19,16,19,204008,Operator,,
+20,16,20,031021,Associated field significance,5,Code table
+21,16,21,,Associated field,0,
+22,16,22,013060,Total accumulated precipitation,0.0,kg m-2
+23,16,23,204000,Operator,,
+24,16,24,004023,Time period or displacement,0.0,d
+25,16,25,004004,Hour,12.0,h
+26,16,26,004005,Minute,0.0,min
+27,16,27,004006,Second,1.0,s
+28,16,28,204008,Operator,,
+29,16,29,031021,Associated field significance,5,Code table
+30,16,30,,Associated field,0,
+31,16,31,013012,Depth of fresh snow (depth of snowfall),0.0,m
+32,16,32,204000,Operator,,
+33,16,33,004023,Time period or displacement,0.0,d
+34,16,34,004004,Hour,12.0,h
+35,16,35,004005,Minute,0.0,min
+36,16,36,004006,Second,0.0,s
+37,16,37,204008,Operator,,
+38,16,38,031021,Associated field significance,5,Code table
+39,16,39,,Associated field,0,
+40,16,40,013013,Total snow depth (snow depth),0.0,m
+41,16,41,204000,Operator,,
+42,16,42,007032,Height of sensor above local ground (or deck of marine platform),2.0,m
+43,16,43,004023,Time period or displacement,0.0,d
+44,16,44,004004,Hour,12.0,h
+45,16,45,004005,Minute,0.0,min
+46,16,46,004006,Second,1.0,s
+47,16,47,008023,First-order statistics,2.0,Code table
+48,16,48,204008,Operator,,
+49,16,49,031021,Associated field significance,5.0,Code table
+50,16,50,,Associated field,0.0,
+51,16,51,012101,Temperature/air temperature,285.05,K
+52,16,52,204000,Operator,,
+53,16,53,004023,Time period or displacement,0.0,d
+54,16,54,004004,Hour,0.0,h
+55,16,55,004005,Minute,0.0,min
+56,16,56,004006,Second,1.0,s
+57,16,57,008023,First-order statistics,3.0,Code table
+58,16,58,204008,Operator,,
+59,16,59,031021,Associated field significance,5.0,Code table
+60,16,60,,Associated field,0.0,
+61,16,61,012101,Temperature/air temperature,279.45,K
+62,16,62,204000,Operator,,
+63,16,63,004023,Time period or displacement,0.0,d
+64,16,64,004004,Hour,4.0,h
+65,16,65,004005,Minute,0.0,min
+66,16,66,004006,Second,1.0,s
+67,16,67,008023,First-order statistics,4.0,Code table
+68,16,68,204008,Operator,,
+69,16,69,031021,Associated field significance,5.0,Code table
+70,16,70,,Associated field,0.0,
+71,16,71,012101,Temperature/air temperature,282.55,K
+72,16,72,204000,Operator,,
+73,16,73,008023,First-order statistics,,Code table
+0,17,0,001125,WIGOS identifier series,0.0,Numeric
+1,17,1,001126,WIGOS issuer of identifier,20000.0,Numeric
+2,17,2,001127,WIGOS issue number,0.0,Numeric
+3,17,3,001128,WIGOS local identifier (character),71805,CCITT IA5
+4,17,4,001001,WMO block number,71.0,Numeric
+5,17,5,001002,WMO station number,805.0,Numeric
+6,17,6,005001,Latitude (high accuracy),46.76633,deg
+7,17,7,006001,Longitude (high accuracy),-56.179170000000006,deg
+8,17,8,007030,Height of station ground above mean sea level,21.0,m
+9,17,9,008095,Siting and measurement quality classification for temperature,,Code table
+10,17,10,008096,Siting and measurement quality classification for precipitation,,Code table
+11,17,11,008094,Method used to calculate the average daily temperature,2,Code table
+12,17,12,004001,Year,2021.0,a
+13,17,13,004002,Month,10.0,mon
+14,17,14,004003,Day,18.0,d
+15,17,15,004023,Time period or displacement,0.0,d
+16,17,16,004004,Hour,12.0,h
+17,17,17,004005,Minute,0.0,min
+18,17,18,004006,Second,1.0,s
+19,17,19,204008,Operator,,
+20,17,20,031021,Associated field significance,5,Code table
+21,17,21,,Associated field,0,
+22,17,22,013060,Total accumulated precipitation,44.5,kg m-2
+23,17,23,204000,Operator,,
+24,17,24,004023,Time period or displacement,0.0,d
+25,17,25,004004,Hour,12.0,h
+26,17,26,004005,Minute,0.0,min
+27,17,27,004006,Second,1.0,s
+28,17,28,204008,Operator,,
+29,17,29,031021,Associated field significance,5,Code table
+30,17,30,,Associated field,6,
+31,17,31,013012,Depth of fresh snow (depth of snowfall),,m
+32,17,32,204000,Operator,,
+33,17,33,004023,Time period or displacement,0.0,d
+34,17,34,004004,Hour,12.0,h
+35,17,35,004005,Minute,0.0,min
+36,17,36,004006,Second,0.0,s
+37,17,37,204008,Operator,,
+38,17,38,031021,Associated field significance,5,Code table
+39,17,39,,Associated field,0,
+40,17,40,013013,Total snow depth (snow depth),0.0,m
+41,17,41,204000,Operator,,
+42,17,42,007032,Height of sensor above local ground (or deck of marine platform),2.0,m
+43,17,43,004023,Time period or displacement,0.0,d
+44,17,44,004004,Hour,12.0,h
+45,17,45,004005,Minute,0.0,min
+46,17,46,004006,Second,1.0,s
+47,17,47,008023,First-order statistics,2.0,Code table
+48,17,48,204008,Operator,,
+49,17,49,031021,Associated field significance,5.0,Code table
+50,17,50,,Associated field,0.0,
+51,17,51,012101,Temperature/air temperature,285.85,K
+52,17,52,204000,Operator,,
+53,17,53,004023,Time period or displacement,0.0,d
+54,17,54,004004,Hour,0.0,h
+55,17,55,004005,Minute,0.0,min
+56,17,56,004006,Second,1.0,s
+57,17,57,008023,First-order statistics,3.0,Code table
+58,17,58,204008,Operator,,
+59,17,59,031021,Associated field significance,5.0,Code table
+60,17,60,,Associated field,0.0,
+61,17,61,012101,Temperature/air temperature,282.15000000000003,K
+62,17,62,204000,Operator,,
+63,17,63,004023,Time period or displacement,0.0,d
+64,17,64,004004,Hour,4.0,h
+65,17,65,004005,Minute,0.0,min
+66,17,66,004006,Second,1.0,s
+67,17,67,008023,First-order statistics,4.0,Code table
+68,17,68,204008,Operator,,
+69,17,69,031021,Associated field significance,5.0,Code table
+70,17,70,,Associated field,0.0,
+71,17,71,012101,Temperature/air temperature,283.35,K
+72,17,72,204000,Operator,,
+73,17,73,008023,First-order statistics,,Code table
+0,18,0,001125,WIGOS identifier series,0.0,Numeric
+1,18,1,001126,WIGOS issuer of identifier,20000.0,Numeric
+2,18,2,001127,WIGOS issue number,0.0,Numeric
+3,18,3,001128,WIGOS local identifier (character),71805,CCITT IA5
+4,18,4,001001,WMO block number,71.0,Numeric
+5,18,5,001002,WMO station number,805.0,Numeric
+6,18,6,005001,Latitude (high accuracy),46.76633,deg
+7,18,7,006001,Longitude (high accuracy),-56.179170000000006,deg
+8,18,8,007030,Height of station ground above mean sea level,21.0,m
+9,18,9,008095,Siting and measurement quality classification for temperature,,Code table
+10,18,10,008096,Siting and measurement quality classification for precipitation,,Code table
+11,18,11,008094,Method used to calculate the average daily temperature,2,Code table
+12,18,12,004001,Year,2021.0,a
+13,18,13,004002,Month,10.0,mon
+14,18,14,004003,Day,19.0,d
+15,18,15,004023,Time period or displacement,0.0,d
+16,18,16,004004,Hour,12.0,h
+17,18,17,004005,Minute,0.0,min
+18,18,18,004006,Second,1.0,s
+19,18,19,204008,Operator,,
+20,18,20,031021,Associated field significance,5,Code table
+21,18,21,,Associated field,0,
+22,18,22,013060,Total accumulated precipitation,5.6000000000000005,kg m-2
+23,18,23,204000,Operator,,
+24,18,24,004023,Time period or displacement,0.0,d
+25,18,25,004004,Hour,12.0,h
+26,18,26,004005,Minute,0.0,min
+27,18,27,004006,Second,1.0,s
+28,18,28,204008,Operator,,
+29,18,29,031021,Associated field significance,5,Code table
+30,18,30,,Associated field,6,
+31,18,31,013012,Depth of fresh snow (depth of snowfall),,m
+32,18,32,204000,Operator,,
+33,18,33,004023,Time period or displacement,0.0,d
+34,18,34,004004,Hour,12.0,h
+35,18,35,004005,Minute,0.0,min
+36,18,36,004006,Second,0.0,s
+37,18,37,204008,Operator,,
+38,18,38,031021,Associated field significance,5,Code table
+39,18,39,,Associated field,0,
+40,18,40,013013,Total snow depth (snow depth),0.0,m
+41,18,41,204000,Operator,,
+42,18,42,007032,Height of sensor above local ground (or deck of marine platform),2.0,m
+43,18,43,004023,Time period or displacement,0.0,d
+44,18,44,004004,Hour,12.0,h
+45,18,45,004005,Minute,0.0,min
+46,18,46,004006,Second,1.0,s
+47,18,47,008023,First-order statistics,2.0,Code table
+48,18,48,204008,Operator,,
+49,18,49,031021,Associated field significance,5.0,Code table
+50,18,50,,Associated field,0.0,
+51,18,51,012101,Temperature/air temperature,288.55,K
+52,18,52,204000,Operator,,
+53,18,53,004023,Time period or displacement,0.0,d
+54,18,54,004004,Hour,0.0,h
+55,18,55,004005,Minute,0.0,min
+56,18,56,004006,Second,1.0,s
+57,18,57,008023,First-order statistics,3.0,Code table
+58,18,58,204008,Operator,,
+59,18,59,031021,Associated field significance,5.0,Code table
+60,18,60,,Associated field,0.0,
+61,18,61,012101,Temperature/air temperature,282.65000000000003,K
+62,18,62,204000,Operator,,
+63,18,63,004023,Time period or displacement,0.0,d
+64,18,64,004004,Hour,4.0,h
+65,18,65,004005,Minute,0.0,min
+66,18,66,004006,Second,1.0,s
+67,18,67,008023,First-order statistics,4.0,Code table
+68,18,68,204008,Operator,,
+69,18,69,031021,Associated field significance,5.0,Code table
+70,18,70,,Associated field,0.0,
+71,18,71,012101,Temperature/air temperature,285.35,K
+72,18,72,204000,Operator,,
+73,18,73,008023,First-order statistics,,Code table
+0,19,0,001125,WIGOS identifier series,0.0,Numeric
+1,19,1,001126,WIGOS issuer of identifier,20000.0,Numeric
+2,19,2,001127,WIGOS issue number,0.0,Numeric
+3,19,3,001128,WIGOS local identifier (character),71805,CCITT IA5
+4,19,4,001001,WMO block number,71.0,Numeric
+5,19,5,001002,WMO station number,805.0,Numeric
+6,19,6,005001,Latitude (high accuracy),46.76633,deg
+7,19,7,006001,Longitude (high accuracy),-56.179170000000006,deg
+8,19,8,007030,Height of station ground above mean sea level,21.0,m
+9,19,9,008095,Siting and measurement quality classification for temperature,,Code table
+10,19,10,008096,Siting and measurement quality classification for precipitation,,Code table
+11,19,11,008094,Method used to calculate the average daily temperature,2,Code table
+12,19,12,004001,Year,2021.0,a
+13,19,13,004002,Month,10.0,mon
+14,19,14,004003,Day,20.0,d
+15,19,15,004023,Time period or displacement,0.0,d
+16,19,16,004004,Hour,12.0,h
+17,19,17,004005,Minute,0.0,min
+18,19,18,004006,Second,1.0,s
+19,19,19,204008,Operator,,
+20,19,20,031021,Associated field significance,5,Code table
+21,19,21,,Associated field,0,
+22,19,22,013060,Total accumulated precipitation,7.9,kg m-2
+23,19,23,204000,Operator,,
+24,19,24,004023,Time period or displacement,0.0,d
+25,19,25,004004,Hour,12.0,h
+26,19,26,004005,Minute,0.0,min
+27,19,27,004006,Second,1.0,s
+28,19,28,204008,Operator,,
+29,19,29,031021,Associated field significance,5,Code table
+30,19,30,,Associated field,0,
+31,19,31,013012,Depth of fresh snow (depth of snowfall),0.0,m
+32,19,32,204000,Operator,,
+33,19,33,004023,Time period or displacement,0.0,d
+34,19,34,004004,Hour,12.0,h
+35,19,35,004005,Minute,0.0,min
+36,19,36,004006,Second,0.0,s
+37,19,37,204008,Operator,,
+38,19,38,031021,Associated field significance,5,Code table
+39,19,39,,Associated field,0,
+40,19,40,013013,Total snow depth (snow depth),0.0,m
+41,19,41,204000,Operator,,
+42,19,42,007032,Height of sensor above local ground (or deck of marine platform),2.0,m
+43,19,43,004023,Time period or displacement,0.0,d
+44,19,44,004004,Hour,12.0,h
+45,19,45,004005,Minute,0.0,min
+46,19,46,004006,Second,1.0,s
+47,19,47,008023,First-order statistics,2.0,Code table
+48,19,48,204008,Operator,,
+49,19,49,031021,Associated field significance,5.0,Code table
+50,19,50,,Associated field,0.0,
+51,19,51,012101,Temperature/air temperature,284.55,K
+52,19,52,204000,Operator,,
+53,19,53,004023,Time period or displacement,0.0,d
+54,19,54,004004,Hour,0.0,h
+55,19,55,004005,Minute,0.0,min
+56,19,56,004006,Second,1.0,s
+57,19,57,008023,First-order statistics,3.0,Code table
+58,19,58,204008,Operator,,
+59,19,59,031021,Associated field significance,5.0,Code table
+60,19,60,,Associated field,0.0,
+61,19,61,012101,Temperature/air temperature,282.35,K
+62,19,62,204000,Operator,,
+63,19,63,004023,Time period or displacement,0.0,d
+64,19,64,004004,Hour,4.0,h
+65,19,65,004005,Minute,0.0,min
+66,19,66,004006,Second,1.0,s
+67,19,67,008023,First-order statistics,4.0,Code table
+68,19,68,204008,Operator,,
+69,19,69,031021,Associated field significance,5.0,Code table
+70,19,70,,Associated field,0.0,
+71,19,71,012101,Temperature/air temperature,283.25,K
+72,19,72,204000,Operator,,
+73,19,73,008023,First-order statistics,,Code table
+0,20,0,001125,WIGOS identifier series,0.0,Numeric
+1,20,1,001126,WIGOS issuer of identifier,20000.0,Numeric
+2,20,2,001127,WIGOS issue number,0.0,Numeric
+3,20,3,001128,WIGOS local identifier (character),71805,CCITT IA5
+4,20,4,001001,WMO block number,71.0,Numeric
+5,20,5,001002,WMO station number,805.0,Numeric
+6,20,6,005001,Latitude (high accuracy),46.76633,deg
+7,20,7,006001,Longitude (high accuracy),-56.179170000000006,deg
+8,20,8,007030,Height of station ground above mean sea level,21.0,m
+9,20,9,008095,Siting and measurement quality classification for temperature,,Code table
+10,20,10,008096,Siting and measurement quality classification for precipitation,,Code table
+11,20,11,008094,Method used to calculate the average daily temperature,2,Code table
+12,20,12,004001,Year,2021.0,a
+13,20,13,004002,Month,10.0,mon
+14,20,14,004003,Day,21.0,d
+15,20,15,004023,Time period or displacement,0.0,d
+16,20,16,004004,Hour,12.0,h
+17,20,17,004005,Minute,0.0,min
+18,20,18,004006,Second,1.0,s
+19,20,19,204008,Operator,,
+20,20,20,031021,Associated field significance,5,Code table
+21,20,21,,Associated field,0,
+22,20,22,013060,Total accumulated precipitation,0.2,kg m-2
+23,20,23,204000,Operator,,
+24,20,24,004023,Time period or displacement,0.0,d
+25,20,25,004004,Hour,12.0,h
+26,20,26,004005,Minute,0.0,min
+27,20,27,004006,Second,1.0,s
+28,20,28,204008,Operator,,
+29,20,29,031021,Associated field significance,5,Code table
+30,20,30,,Associated field,0,
+31,20,31,013012,Depth of fresh snow (depth of snowfall),0.0,m
+32,20,32,204000,Operator,,
+33,20,33,004023,Time period or displacement,0.0,d
+34,20,34,004004,Hour,12.0,h
+35,20,35,004005,Minute,0.0,min
+36,20,36,004006,Second,0.0,s
+37,20,37,204008,Operator,,
+38,20,38,031021,Associated field significance,5,Code table
+39,20,39,,Associated field,0,
+40,20,40,013013,Total snow depth (snow depth),0.0,m
+41,20,41,204000,Operator,,
+42,20,42,007032,Height of sensor above local ground (or deck of marine platform),2.0,m
+43,20,43,004023,Time period or displacement,0.0,d
+44,20,44,004004,Hour,12.0,h
+45,20,45,004005,Minute,0.0,min
+46,20,46,004006,Second,1.0,s
+47,20,47,008023,First-order statistics,2.0,Code table
+48,20,48,204008,Operator,,
+49,20,49,031021,Associated field significance,5.0,Code table
+50,20,50,,Associated field,0.0,
+51,20,51,012101,Temperature/air temperature,286.85,K
+52,20,52,204000,Operator,,
+53,20,53,004023,Time period or displacement,0.0,d
+54,20,54,004004,Hour,0.0,h
+55,20,55,004005,Minute,0.0,min
+56,20,56,004006,Second,1.0,s
+57,20,57,008023,First-order statistics,3.0,Code table
+58,20,58,204008,Operator,,
+59,20,59,031021,Associated field significance,5.0,Code table
+60,20,60,,Associated field,0.0,
+61,20,61,012101,Temperature/air temperature,282.15000000000003,K
+62,20,62,204000,Operator,,
+63,20,63,004023,Time period or displacement,0.0,d
+64,20,64,004004,Hour,4.0,h
+65,20,65,004005,Minute,0.0,min
+66,20,66,004006,Second,1.0,s
+67,20,67,008023,First-order statistics,4.0,Code table
+68,20,68,204008,Operator,,
+69,20,69,031021,Associated field significance,5.0,Code table
+70,20,70,,Associated field,0.0,
+71,20,71,012101,Temperature/air temperature,283.85,K
+72,20,72,204000,Operator,,
+73,20,73,008023,First-order statistics,,Code table
+0,21,0,001125,WIGOS identifier series,0.0,Numeric
+1,21,1,001126,WIGOS issuer of identifier,20000.0,Numeric
+2,21,2,001127,WIGOS issue number,0.0,Numeric
+3,21,3,001128,WIGOS local identifier (character),71805,CCITT IA5
+4,21,4,001001,WMO block number,71.0,Numeric
+5,21,5,001002,WMO station number,805.0,Numeric
+6,21,6,005001,Latitude (high accuracy),46.76633,deg
+7,21,7,006001,Longitude (high accuracy),-56.179170000000006,deg
+8,21,8,007030,Height of station ground above mean sea level,21.0,m
+9,21,9,008095,Siting and measurement quality classification for temperature,,Code table
+10,21,10,008096,Siting and measurement quality classification for precipitation,,Code table
+11,21,11,008094,Method used to calculate the average daily temperature,2,Code table
+12,21,12,004001,Year,2021.0,a
+13,21,13,004002,Month,10.0,mon
+14,21,14,004003,Day,22.0,d
+15,21,15,004023,Time period or displacement,0.0,d
+16,21,16,004004,Hour,12.0,h
+17,21,17,004005,Minute,0.0,min
+18,21,18,004006,Second,1.0,s
+19,21,19,204008,Operator,,
+20,21,20,031021,Associated field significance,5,Code table
+21,21,21,,Associated field,0,
+22,21,22,013060,Total accumulated precipitation,1.4000000000000001,kg m-2
+23,21,23,204000,Operator,,
+24,21,24,004023,Time period or displacement,0.0,d
+25,21,25,004004,Hour,12.0,h
+26,21,26,004005,Minute,0.0,min
+27,21,27,004006,Second,1.0,s
+28,21,28,204008,Operator,,
+29,21,29,031021,Associated field significance,5,Code table
+30,21,30,,Associated field,0,
+31,21,31,013012,Depth of fresh snow (depth of snowfall),0.0,m
+32,21,32,204000,Operator,,
+33,21,33,004023,Time period or displacement,0.0,d
+34,21,34,004004,Hour,12.0,h
+35,21,35,004005,Minute,0.0,min
+36,21,36,004006,Second,0.0,s
+37,21,37,204008,Operator,,
+38,21,38,031021,Associated field significance,5,Code table
+39,21,39,,Associated field,0,
+40,21,40,013013,Total snow depth (snow depth),0.0,m
+41,21,41,204000,Operator,,
+42,21,42,007032,Height of sensor above local ground (or deck of marine platform),2.0,m
+43,21,43,004023,Time period or displacement,0.0,d
+44,21,44,004004,Hour,12.0,h
+45,21,45,004005,Minute,0.0,min
+46,21,46,004006,Second,1.0,s
+47,21,47,008023,First-order statistics,2.0,Code table
+48,21,48,204008,Operator,,
+49,21,49,031021,Associated field significance,5.0,Code table
+50,21,50,,Associated field,0.0,
+51,21,51,012101,Temperature/air temperature,287.05,K
+52,21,52,204000,Operator,,
+53,21,53,004023,Time period or displacement,0.0,d
+54,21,54,004004,Hour,0.0,h
+55,21,55,004005,Minute,0.0,min
+56,21,56,004006,Second,1.0,s
+57,21,57,008023,First-order statistics,3.0,Code table
+58,21,58,204008,Operator,,
+59,21,59,031021,Associated field significance,5.0,Code table
+60,21,60,,Associated field,0.0,
+61,21,61,012101,Temperature/air temperature,280.85,K
+62,21,62,204000,Operator,,
+63,21,63,004023,Time period or displacement,0.0,d
+64,21,64,004004,Hour,4.0,h
+65,21,65,004005,Minute,0.0,min
+66,21,66,004006,Second,1.0,s
+67,21,67,008023,First-order statistics,4.0,Code table
+68,21,68,204008,Operator,,
+69,21,69,031021,Associated field significance,5.0,Code table
+70,21,70,,Associated field,0.0,
+71,21,71,012101,Temperature/air temperature,284.35,K
+72,21,72,204000,Operator,,
+73,21,73,008023,First-order statistics,,Code table
+0,22,0,001125,WIGOS identifier series,0.0,Numeric
+1,22,1,001126,WIGOS issuer of identifier,20000.0,Numeric
+2,22,2,001127,WIGOS issue number,0.0,Numeric
+3,22,3,001128,WIGOS local identifier (character),71805,CCITT IA5
+4,22,4,001001,WMO block number,71.0,Numeric
+5,22,5,001002,WMO station number,805.0,Numeric
+6,22,6,005001,Latitude (high accuracy),46.76633,deg
+7,22,7,006001,Longitude (high accuracy),-56.179170000000006,deg
+8,22,8,007030,Height of station ground above mean sea level,21.0,m
+9,22,9,008095,Siting and measurement quality classification for temperature,,Code table
+10,22,10,008096,Siting and measurement quality classification for precipitation,,Code table
+11,22,11,008094,Method used to calculate the average daily temperature,2,Code table
+12,22,12,004001,Year,2021.0,a
+13,22,13,004002,Month,10.0,mon
+14,22,14,004003,Day,23.0,d
+15,22,15,004023,Time period or displacement,0.0,d
+16,22,16,004004,Hour,12.0,h
+17,22,17,004005,Minute,0.0,min
+18,22,18,004006,Second,1.0,s
+19,22,19,204008,Operator,,
+20,22,20,031021,Associated field significance,5,Code table
+21,22,21,,Associated field,0,
+22,22,22,013060,Total accumulated precipitation,7.800000000000001,kg m-2
+23,22,23,204000,Operator,,
+24,22,24,004023,Time period or displacement,0.0,d
+25,22,25,004004,Hour,12.0,h
+26,22,26,004005,Minute,0.0,min
+27,22,27,004006,Second,1.0,s
+28,22,28,204008,Operator,,
+29,22,29,031021,Associated field significance,5,Code table
+30,22,30,,Associated field,0,
+31,22,31,013012,Depth of fresh snow (depth of snowfall),0.0,m
+32,22,32,204000,Operator,,
+33,22,33,004023,Time period or displacement,0.0,d
+34,22,34,004004,Hour,12.0,h
+35,22,35,004005,Minute,0.0,min
+36,22,36,004006,Second,0.0,s
+37,22,37,204008,Operator,,
+38,22,38,031021,Associated field significance,5,Code table
+39,22,39,,Associated field,0,
+40,22,40,013013,Total snow depth (snow depth),0.0,m
+41,22,41,204000,Operator,,
+42,22,42,007032,Height of sensor above local ground (or deck of marine platform),2.0,m
+43,22,43,004023,Time period or displacement,0.0,d
+44,22,44,004004,Hour,12.0,h
+45,22,45,004005,Minute,0.0,min
+46,22,46,004006,Second,1.0,s
+47,22,47,008023,First-order statistics,2.0,Code table
+48,22,48,204008,Operator,,
+49,22,49,031021,Associated field significance,5.0,Code table
+50,22,50,,Associated field,0.0,
+51,22,51,012101,Temperature/air temperature,287.15000000000003,K
+52,22,52,204000,Operator,,
+53,22,53,004023,Time period or displacement,0.0,d
+54,22,54,004004,Hour,0.0,h
+55,22,55,004005,Minute,0.0,min
+56,22,56,004006,Second,1.0,s
+57,22,57,008023,First-order statistics,3.0,Code table
+58,22,58,204008,Operator,,
+59,22,59,031021,Associated field significance,5.0,Code table
+60,22,60,,Associated field,0.0,
+61,22,61,012101,Temperature/air temperature,285.15000000000003,K
+62,22,62,204000,Operator,,
+63,22,63,004023,Time period or displacement,0.0,d
+64,22,64,004004,Hour,4.0,h
+65,22,65,004005,Minute,0.0,min
+66,22,66,004006,Second,1.0,s
+67,22,67,008023,First-order statistics,4.0,Code table
+68,22,68,204008,Operator,,
+69,22,69,031021,Associated field significance,5.0,Code table
+70,22,70,,Associated field,0.0,
+71,22,71,012101,Temperature/air temperature,286.25,K
+72,22,72,204000,Operator,,
+73,22,73,008023,First-order statistics,,Code table
+0,23,0,001125,WIGOS identifier series,0.0,Numeric
+1,23,1,001126,WIGOS issuer of identifier,20000.0,Numeric
+2,23,2,001127,WIGOS issue number,0.0,Numeric
+3,23,3,001128,WIGOS local identifier (character),71805,CCITT IA5
+4,23,4,001001,WMO block number,71.0,Numeric
+5,23,5,001002,WMO station number,805.0,Numeric
+6,23,6,005001,Latitude (high accuracy),46.76633,deg
+7,23,7,006001,Longitude (high accuracy),-56.179170000000006,deg
+8,23,8,007030,Height of station ground above mean sea level,21.0,m
+9,23,9,008095,Siting and measurement quality classification for temperature,,Code table
+10,23,10,008096,Siting and measurement quality classification for precipitation,,Code table
+11,23,11,008094,Method used to calculate the average daily temperature,2,Code table
+12,23,12,004001,Year,2021.0,a
+13,23,13,004002,Month,10.0,mon
+14,23,14,004003,Day,24.0,d
+15,23,15,004023,Time period or displacement,0.0,d
+16,23,16,004004,Hour,12.0,h
+17,23,17,004005,Minute,0.0,min
+18,23,18,004006,Second,1.0,s
+19,23,19,204008,Operator,,
+20,23,20,031021,Associated field significance,5,Code table
+21,23,21,,Associated field,0,
+22,23,22,013060,Total accumulated precipitation,4.4,kg m-2
+23,23,23,204000,Operator,,
+24,23,24,004023,Time period or displacement,0.0,d
+25,23,25,004004,Hour,12.0,h
+26,23,26,004005,Minute,0.0,min
+27,23,27,004006,Second,1.0,s
+28,23,28,204008,Operator,,
+29,23,29,031021,Associated field significance,5,Code table
+30,23,30,,Associated field,0,
+31,23,31,013012,Depth of fresh snow (depth of snowfall),0.0,m
+32,23,32,204000,Operator,,
+33,23,33,004023,Time period or displacement,0.0,d
+34,23,34,004004,Hour,12.0,h
+35,23,35,004005,Minute,0.0,min
+36,23,36,004006,Second,0.0,s
+37,23,37,204008,Operator,,
+38,23,38,031021,Associated field significance,5,Code table
+39,23,39,,Associated field,6,
+40,23,40,013013,Total snow depth (snow depth),,m
+41,23,41,204000,Operator,,
+42,23,42,007032,Height of sensor above local ground (or deck of marine platform),2.0,m
+43,23,43,004023,Time period or displacement,0.0,d
+44,23,44,004004,Hour,12.0,h
+45,23,45,004005,Minute,0.0,min
+46,23,46,004006,Second,1.0,s
+47,23,47,008023,First-order statistics,2.0,Code table
+48,23,48,204008,Operator,,
+49,23,49,031021,Associated field significance,5.0,Code table
+50,23,50,,Associated field,0.0,
+51,23,51,012101,Temperature/air temperature,288.05,K
+52,23,52,204000,Operator,,
+53,23,53,004023,Time period or displacement,0.0,d
+54,23,54,004004,Hour,0.0,h
+55,23,55,004005,Minute,0.0,min
+56,23,56,004006,Second,1.0,s
+57,23,57,008023,First-order statistics,3.0,Code table
+58,23,58,204008,Operator,,
+59,23,59,031021,Associated field significance,5.0,Code table
+60,23,60,,Associated field,0.0,
+61,23,61,012101,Temperature/air temperature,283.85,K
+62,23,62,204000,Operator,,
+63,23,63,004023,Time period or displacement,0.0,d
+64,23,64,004004,Hour,4.0,h
+65,23,65,004005,Minute,0.0,min
+66,23,66,004006,Second,1.0,s
+67,23,67,008023,First-order statistics,4.0,Code table
+68,23,68,204008,Operator,,
+69,23,69,031021,Associated field significance,5.0,Code table
+70,23,70,,Associated field,0.0,
+71,23,71,012101,Temperature/air temperature,285.65000000000003,K
+72,23,72,204000,Operator,,
+73,23,73,008023,First-order statistics,,Code table
+0,24,0,001125,WIGOS identifier series,0.0,Numeric
+1,24,1,001126,WIGOS issuer of identifier,20000.0,Numeric
+2,24,2,001127,WIGOS issue number,0.0,Numeric
+3,24,3,001128,WIGOS local identifier (character),71805,CCITT IA5
+4,24,4,001001,WMO block number,71.0,Numeric
+5,24,5,001002,WMO station number,805.0,Numeric
+6,24,6,005001,Latitude (high accuracy),46.76633,deg
+7,24,7,006001,Longitude (high accuracy),-56.179170000000006,deg
+8,24,8,007030,Height of station ground above mean sea level,21.0,m
+9,24,9,008095,Siting and measurement quality classification for temperature,,Code table
+10,24,10,008096,Siting and measurement quality classification for precipitation,,Code table
+11,24,11,008094,Method used to calculate the average daily temperature,2,Code table
+12,24,12,004001,Year,2021.0,a
+13,24,13,004002,Month,10.0,mon
+14,24,14,004003,Day,25.0,d
+15,24,15,004023,Time period or displacement,0.0,d
+16,24,16,004004,Hour,12.0,h
+17,24,17,004005,Minute,0.0,min
+18,24,18,004006,Second,1.0,s
+19,24,19,204008,Operator,,
+20,24,20,031021,Associated field significance,5,Code table
+21,24,21,,Associated field,0,
+22,24,22,013060,Total accumulated precipitation,0.0,kg m-2
+23,24,23,204000,Operator,,
+24,24,24,004023,Time period or displacement,0.0,d
+25,24,25,004004,Hour,12.0,h
+26,24,26,004005,Minute,0.0,min
+27,24,27,004006,Second,1.0,s
+28,24,28,204008,Operator,,
+29,24,29,031021,Associated field significance,5,Code table
+30,24,30,,Associated field,0,
+31,24,31,013012,Depth of fresh snow (depth of snowfall),0.0,m
+32,24,32,204000,Operator,,
+33,24,33,004023,Time period or displacement,0.0,d
+34,24,34,004004,Hour,12.0,h
+35,24,35,004005,Minute,0.0,min
+36,24,36,004006,Second,0.0,s
+37,24,37,204008,Operator,,
+38,24,38,031021,Associated field significance,5,Code table
+39,24,39,,Associated field,0,
+40,24,40,013013,Total snow depth (snow depth),0.0,m
+41,24,41,204000,Operator,,
+42,24,42,007032,Height of sensor above local ground (or deck of marine platform),2.0,m
+43,24,43,004023,Time period or displacement,0.0,d
+44,24,44,004004,Hour,12.0,h
+45,24,45,004005,Minute,0.0,min
+46,24,46,004006,Second,1.0,s
+47,24,47,008023,First-order statistics,2.0,Code table
+48,24,48,204008,Operator,,
+49,24,49,031021,Associated field significance,5.0,Code table
+50,24,50,,Associated field,0.0,
+51,24,51,012101,Temperature/air temperature,283.35,K
+52,24,52,204000,Operator,,
+53,24,53,004023,Time period or displacement,0.0,d
+54,24,54,004004,Hour,0.0,h
+55,24,55,004005,Minute,0.0,min
+56,24,56,004006,Second,1.0,s
+57,24,57,008023,First-order statistics,3.0,Code table
+58,24,58,204008,Operator,,
+59,24,59,031021,Associated field significance,5.0,Code table
+60,24,60,,Associated field,0.0,
+61,24,61,012101,Temperature/air temperature,280.05,K
+62,24,62,204000,Operator,,
+63,24,63,004023,Time period or displacement,0.0,d
+64,24,64,004004,Hour,4.0,h
+65,24,65,004005,Minute,0.0,min
+66,24,66,004006,Second,1.0,s
+67,24,67,008023,First-order statistics,4.0,Code table
+68,24,68,204008,Operator,,
+69,24,69,031021,Associated field significance,5.0,Code table
+70,24,70,,Associated field,0.0,
+71,24,71,012101,Temperature/air temperature,281.35,K
+72,24,72,204000,Operator,,
+73,24,73,008023,First-order statistics,,Code table
+0,25,0,001125,WIGOS identifier series,0.0,Numeric
+1,25,1,001126,WIGOS issuer of identifier,20000.0,Numeric
+2,25,2,001127,WIGOS issue number,0.0,Numeric
+3,25,3,001128,WIGOS local identifier (character),71805,CCITT IA5
+4,25,4,001001,WMO block number,71.0,Numeric
+5,25,5,001002,WMO station number,805.0,Numeric
+6,25,6,005001,Latitude (high accuracy),46.76633,deg
+7,25,7,006001,Longitude (high accuracy),-56.179170000000006,deg
+8,25,8,007030,Height of station ground above mean sea level,21.0,m
+9,25,9,008095,Siting and measurement quality classification for temperature,,Code table
+10,25,10,008096,Siting and measurement quality classification for precipitation,,Code table
+11,25,11,008094,Method used to calculate the average daily temperature,2,Code table
+12,25,12,004001,Year,2021.0,a
+13,25,13,004002,Month,10.0,mon
+14,25,14,004003,Day,26.0,d
+15,25,15,004023,Time period or displacement,0.0,d
+16,25,16,004004,Hour,12.0,h
+17,25,17,004005,Minute,0.0,min
+18,25,18,004006,Second,1.0,s
+19,25,19,204008,Operator,,
+20,25,20,031021,Associated field significance,5,Code table
+21,25,21,,Associated field,0,
+22,25,22,013060,Total accumulated precipitation,0.0,kg m-2
+23,25,23,204000,Operator,,
+24,25,24,004023,Time period or displacement,0.0,d
+25,25,25,004004,Hour,12.0,h
+26,25,26,004005,Minute,0.0,min
+27,25,27,004006,Second,1.0,s
+28,25,28,204008,Operator,,
+29,25,29,031021,Associated field significance,5,Code table
+30,25,30,,Associated field,0,
+31,25,31,013012,Depth of fresh snow (depth of snowfall),0.0,m
+32,25,32,204000,Operator,,
+33,25,33,004023,Time period or displacement,0.0,d
+34,25,34,004004,Hour,12.0,h
+35,25,35,004005,Minute,0.0,min
+36,25,36,004006,Second,0.0,s
+37,25,37,204008,Operator,,
+38,25,38,031021,Associated field significance,5,Code table
+39,25,39,,Associated field,0,
+40,25,40,013013,Total snow depth (snow depth),0.0,m
+41,25,41,204000,Operator,,
+42,25,42,007032,Height of sensor above local ground (or deck of marine platform),2.0,m
+43,25,43,004023,Time period or displacement,0.0,d
+44,25,44,004004,Hour,12.0,h
+45,25,45,004005,Minute,0.0,min
+46,25,46,004006,Second,1.0,s
+47,25,47,008023,First-order statistics,2.0,Code table
+48,25,48,204008,Operator,,
+49,25,49,031021,Associated field significance,5.0,Code table
+50,25,50,,Associated field,0.0,
+51,25,51,012101,Temperature/air temperature,282.55,K
+52,25,52,204000,Operator,,
+53,25,53,004023,Time period or displacement,0.0,d
+54,25,54,004004,Hour,0.0,h
+55,25,55,004005,Minute,0.0,min
+56,25,56,004006,Second,1.0,s
+57,25,57,008023,First-order statistics,3.0,Code table
+58,25,58,204008,Operator,,
+59,25,59,031021,Associated field significance,5.0,Code table
+60,25,60,,Associated field,0.0,
+61,25,61,012101,Temperature/air temperature,278.65000000000003,K
+62,25,62,204000,Operator,,
+63,25,63,004023,Time period or displacement,0.0,d
+64,25,64,004004,Hour,4.0,h
+65,25,65,004005,Minute,0.0,min
+66,25,66,004006,Second,1.0,s
+67,25,67,008023,First-order statistics,4.0,Code table
+68,25,68,204008,Operator,,
+69,25,69,031021,Associated field significance,5.0,Code table
+70,25,70,,Associated field,0.0,
+71,25,71,012101,Temperature/air temperature,280.85,K
+72,25,72,204000,Operator,,
+73,25,73,008023,First-order statistics,,Code table
+0,26,0,001125,WIGOS identifier series,0.0,Numeric
+1,26,1,001126,WIGOS issuer of identifier,20000.0,Numeric
+2,26,2,001127,WIGOS issue number,0.0,Numeric
+3,26,3,001128,WIGOS local identifier (character),71805,CCITT IA5
+4,26,4,001001,WMO block number,71.0,Numeric
+5,26,5,001002,WMO station number,805.0,Numeric
+6,26,6,005001,Latitude (high accuracy),46.76633,deg
+7,26,7,006001,Longitude (high accuracy),-56.179170000000006,deg
+8,26,8,007030,Height of station ground above mean sea level,21.0,m
+9,26,9,008095,Siting and measurement quality classification for temperature,,Code table
+10,26,10,008096,Siting and measurement quality classification for precipitation,,Code table
+11,26,11,008094,Method used to calculate the average daily temperature,2,Code table
+12,26,12,004001,Year,2021.0,a
+13,26,13,004002,Month,10.0,mon
+14,26,14,004003,Day,27.0,d
+15,26,15,004023,Time period or displacement,0.0,d
+16,26,16,004004,Hour,12.0,h
+17,26,17,004005,Minute,0.0,min
+18,26,18,004006,Second,1.0,s
+19,26,19,204008,Operator,,
+20,26,20,031021,Associated field significance,5,Code table
+21,26,21,,Associated field,0,
+22,26,22,013060,Total accumulated precipitation,0.0,kg m-2
+23,26,23,204000,Operator,,
+24,26,24,004023,Time period or displacement,0.0,d
+25,26,25,004004,Hour,12.0,h
+26,26,26,004005,Minute,0.0,min
+27,26,27,004006,Second,1.0,s
+28,26,28,204008,Operator,,
+29,26,29,031021,Associated field significance,5,Code table
+30,26,30,,Associated field,0,
+31,26,31,013012,Depth of fresh snow (depth of snowfall),0.0,m
+32,26,32,204000,Operator,,
+33,26,33,004023,Time period or displacement,0.0,d
+34,26,34,004004,Hour,12.0,h
+35,26,35,004005,Minute,0.0,min
+36,26,36,004006,Second,0.0,s
+37,26,37,204008,Operator,,
+38,26,38,031021,Associated field significance,5,Code table
+39,26,39,,Associated field,0,
+40,26,40,013013,Total snow depth (snow depth),0.0,m
+41,26,41,204000,Operator,,
+42,26,42,007032,Height of sensor above local ground (or deck of marine platform),2.0,m
+43,26,43,004023,Time period or displacement,0.0,d
+44,26,44,004004,Hour,12.0,h
+45,26,45,004005,Minute,0.0,min
+46,26,46,004006,Second,1.0,s
+47,26,47,008023,First-order statistics,2.0,Code table
+48,26,48,204008,Operator,,
+49,26,49,031021,Associated field significance,5.0,Code table
+50,26,50,,Associated field,0.0,
+51,26,51,012101,Temperature/air temperature,281.35,K
+52,26,52,204000,Operator,,
+53,26,53,004023,Time period or displacement,0.0,d
+54,26,54,004004,Hour,0.0,h
+55,26,55,004005,Minute,0.0,min
+56,26,56,004006,Second,1.0,s
+57,26,57,008023,First-order statistics,3.0,Code table
+58,26,58,204008,Operator,,
+59,26,59,031021,Associated field significance,5.0,Code table
+60,26,60,,Associated field,0.0,
+61,26,61,012101,Temperature/air temperature,279.35,K
+62,26,62,204000,Operator,,
+63,26,63,004023,Time period or displacement,0.0,d
+64,26,64,004004,Hour,4.0,h
+65,26,65,004005,Minute,0.0,min
+66,26,66,004006,Second,1.0,s
+67,26,67,008023,First-order statistics,4.0,Code table
+68,26,68,204008,Operator,,
+69,26,69,031021,Associated field significance,5.0,Code table
+70,26,70,,Associated field,0.0,
+71,26,71,012101,Temperature/air temperature,279.95,K
+72,26,72,204000,Operator,,
+73,26,73,008023,First-order statistics,,Code table
+0,27,0,001125,WIGOS identifier series,0.0,Numeric
+1,27,1,001126,WIGOS issuer of identifier,20000.0,Numeric
+2,27,2,001127,WIGOS issue number,0.0,Numeric
+3,27,3,001128,WIGOS local identifier (character),71805,CCITT IA5
+4,27,4,001001,WMO block number,71.0,Numeric
+5,27,5,001002,WMO station number,805.0,Numeric
+6,27,6,005001,Latitude (high accuracy),46.76633,deg
+7,27,7,006001,Longitude (high accuracy),-56.179170000000006,deg
+8,27,8,007030,Height of station ground above mean sea level,21.0,m
+9,27,9,008095,Siting and measurement quality classification for temperature,,Code table
+10,27,10,008096,Siting and measurement quality classification for precipitation,,Code table
+11,27,11,008094,Method used to calculate the average daily temperature,2,Code table
+12,27,12,004001,Year,2021.0,a
+13,27,13,004002,Month,10.0,mon
+14,27,14,004003,Day,28.0,d
+15,27,15,004023,Time period or displacement,0.0,d
+16,27,16,004004,Hour,12.0,h
+17,27,17,004005,Minute,0.0,min
+18,27,18,004006,Second,1.0,s
+19,27,19,204008,Operator,,
+20,27,20,031021,Associated field significance,5,Code table
+21,27,21,,Associated field,0,
+22,27,22,013060,Total accumulated precipitation,0.0,kg m-2
+23,27,23,204000,Operator,,
+24,27,24,004023,Time period or displacement,0.0,d
+25,27,25,004004,Hour,12.0,h
+26,27,26,004005,Minute,0.0,min
+27,27,27,004006,Second,1.0,s
+28,27,28,204008,Operator,,
+29,27,29,031021,Associated field significance,5,Code table
+30,27,30,,Associated field,0,
+31,27,31,013012,Depth of fresh snow (depth of snowfall),0.0,m
+32,27,32,204000,Operator,,
+33,27,33,004023,Time period or displacement,0.0,d
+34,27,34,004004,Hour,12.0,h
+35,27,35,004005,Minute,0.0,min
+36,27,36,004006,Second,0.0,s
+37,27,37,204008,Operator,,
+38,27,38,031021,Associated field significance,5,Code table
+39,27,39,,Associated field,0,
+40,27,40,013013,Total snow depth (snow depth),0.0,m
+41,27,41,204000,Operator,,
+42,27,42,007032,Height of sensor above local ground (or deck of marine platform),2.0,m
+43,27,43,004023,Time period or displacement,0.0,d
+44,27,44,004004,Hour,12.0,h
+45,27,45,004005,Minute,0.0,min
+46,27,46,004006,Second,1.0,s
+47,27,47,008023,First-order statistics,2.0,Code table
+48,27,48,204008,Operator,,
+49,27,49,031021,Associated field significance,5.0,Code table
+50,27,50,,Associated field,0.0,
+51,27,51,012101,Temperature/air temperature,279.55,K
+52,27,52,204000,Operator,,
+53,27,53,004023,Time period or displacement,0.0,d
+54,27,54,004004,Hour,0.0,h
+55,27,55,004005,Minute,0.0,min
+56,27,56,004006,Second,1.0,s
+57,27,57,008023,First-order statistics,3.0,Code table
+58,27,58,204008,Operator,,
+59,27,59,031021,Associated field significance,5.0,Code table
+60,27,60,,Associated field,0.0,
+61,27,61,012101,Temperature/air temperature,276.65000000000003,K
+62,27,62,204000,Operator,,
+63,27,63,004023,Time period or displacement,0.0,d
+64,27,64,004004,Hour,4.0,h
+65,27,65,004005,Minute,0.0,min
+66,27,66,004006,Second,1.0,s
+67,27,67,008023,First-order statistics,4.0,Code table
+68,27,68,204008,Operator,,
+69,27,69,031021,Associated field significance,5.0,Code table
+70,27,70,,Associated field,0.0,
+71,27,71,012101,Temperature/air temperature,277.95,K
+72,27,72,204000,Operator,,
+73,27,73,008023,First-order statistics,,Code table
+0,28,0,001125,WIGOS identifier series,0.0,Numeric
+1,28,1,001126,WIGOS issuer of identifier,20000.0,Numeric
+2,28,2,001127,WIGOS issue number,0.0,Numeric
+3,28,3,001128,WIGOS local identifier (character),71805,CCITT IA5
+4,28,4,001001,WMO block number,71.0,Numeric
+5,28,5,001002,WMO station number,805.0,Numeric
+6,28,6,005001,Latitude (high accuracy),46.76633,deg
+7,28,7,006001,Longitude (high accuracy),-56.179170000000006,deg
+8,28,8,007030,Height of station ground above mean sea level,21.0,m
+9,28,9,008095,Siting and measurement quality classification for temperature,,Code table
+10,28,10,008096,Siting and measurement quality classification for precipitation,,Code table
+11,28,11,008094,Method used to calculate the average daily temperature,2,Code table
+12,28,12,004001,Year,2021.0,a
+13,28,13,004002,Month,10.0,mon
+14,28,14,004003,Day,29.0,d
+15,28,15,004023,Time period or displacement,0.0,d
+16,28,16,004004,Hour,12.0,h
+17,28,17,004005,Minute,0.0,min
+18,28,18,004006,Second,1.0,s
+19,28,19,204008,Operator,,
+20,28,20,031021,Associated field significance,5,Code table
+21,28,21,,Associated field,0,
+22,28,22,013060,Total accumulated precipitation,0.0,kg m-2
+23,28,23,204000,Operator,,
+24,28,24,004023,Time period or displacement,0.0,d
+25,28,25,004004,Hour,12.0,h
+26,28,26,004005,Minute,0.0,min
+27,28,27,004006,Second,1.0,s
+28,28,28,204008,Operator,,
+29,28,29,031021,Associated field significance,5,Code table
+30,28,30,,Associated field,6,
+31,28,31,013012,Depth of fresh snow (depth of snowfall),,m
+32,28,32,204000,Operator,,
+33,28,33,004023,Time period or displacement,0.0,d
+34,28,34,004004,Hour,12.0,h
+35,28,35,004005,Minute,0.0,min
+36,28,36,004006,Second,0.0,s
+37,28,37,204008,Operator,,
+38,28,38,031021,Associated field significance,5,Code table
+39,28,39,,Associated field,0,
+40,28,40,013013,Total snow depth (snow depth),0.0,m
+41,28,41,204000,Operator,,
+42,28,42,007032,Height of sensor above local ground (or deck of marine platform),2.0,m
+43,28,43,004023,Time period or displacement,0.0,d
+44,28,44,004004,Hour,12.0,h
+45,28,45,004005,Minute,0.0,min
+46,28,46,004006,Second,1.0,s
+47,28,47,008023,First-order statistics,2.0,Code table
+48,28,48,204008,Operator,,
+49,28,49,031021,Associated field significance,5.0,Code table
+50,28,50,,Associated field,0.0,
+51,28,51,012101,Temperature/air temperature,282.55,K
+52,28,52,204000,Operator,,
+53,28,53,004023,Time period or displacement,0.0,d
+54,28,54,004004,Hour,0.0,h
+55,28,55,004005,Minute,0.0,min
+56,28,56,004006,Second,1.0,s
+57,28,57,008023,First-order statistics,3.0,Code table
+58,28,58,204008,Operator,,
+59,28,59,031021,Associated field significance,5.0,Code table
+60,28,60,,Associated field,0.0,
+61,28,61,012101,Temperature/air temperature,277.25,K
+62,28,62,204000,Operator,,
+63,28,63,004023,Time period or displacement,0.0,d
+64,28,64,004004,Hour,4.0,h
+65,28,65,004005,Minute,0.0,min
+66,28,66,004006,Second,1.0,s
+67,28,67,008023,First-order statistics,4.0,Code table
+68,28,68,204008,Operator,,
+69,28,69,031021,Associated field significance,5.0,Code table
+70,28,70,,Associated field,0.0,
+71,28,71,012101,Temperature/air temperature,278.95,K
+72,28,72,204000,Operator,,
+73,28,73,008023,First-order statistics,,Code table
+0,29,0,001125,WIGOS identifier series,0.0,Numeric
+1,29,1,001126,WIGOS issuer of identifier,20000.0,Numeric
+2,29,2,001127,WIGOS issue number,0.0,Numeric
+3,29,3,001128,WIGOS local identifier (character),71805,CCITT IA5
+4,29,4,001001,WMO block number,71.0,Numeric
+5,29,5,001002,WMO station number,805.0,Numeric
+6,29,6,005001,Latitude (high accuracy),46.76633,deg
+7,29,7,006001,Longitude (high accuracy),-56.179170000000006,deg
+8,29,8,007030,Height of station ground above mean sea level,21.0,m
+9,29,9,008095,Siting and measurement quality classification for temperature,,Code table
+10,29,10,008096,Siting and measurement quality classification for precipitation,,Code table
+11,29,11,008094,Method used to calculate the average daily temperature,2,Code table
+12,29,12,004001,Year,2021.0,a
+13,29,13,004002,Month,10.0,mon
+14,29,14,004003,Day,30.0,d
+15,29,15,004023,Time period or displacement,0.0,d
+16,29,16,004004,Hour,12.0,h
+17,29,17,004005,Minute,0.0,min
+18,29,18,004006,Second,1.0,s
+19,29,19,204008,Operator,,
+20,29,20,031021,Associated field significance,5,Code table
+21,29,21,,Associated field,0,
+22,29,22,013060,Total accumulated precipitation,0.0,kg m-2
+23,29,23,204000,Operator,,
+24,29,24,004023,Time period or displacement,0.0,d
+25,29,25,004004,Hour,12.0,h
+26,29,26,004005,Minute,0.0,min
+27,29,27,004006,Second,1.0,s
+28,29,28,204008,Operator,,
+29,29,29,031021,Associated field significance,5,Code table
+30,29,30,,Associated field,6,
+31,29,31,013012,Depth of fresh snow (depth of snowfall),,m
+32,29,32,204000,Operator,,
+33,29,33,004023,Time period or displacement,0.0,d
+34,29,34,004004,Hour,12.0,h
+35,29,35,004005,Minute,0.0,min
+36,29,36,004006,Second,0.0,s
+37,29,37,204008,Operator,,
+38,29,38,031021,Associated field significance,5,Code table
+39,29,39,,Associated field,0,
+40,29,40,013013,Total snow depth (snow depth),0.0,m
+41,29,41,204000,Operator,,
+42,29,42,007032,Height of sensor above local ground (or deck of marine platform),2.0,m
+43,29,43,004023,Time period or displacement,0.0,d
+44,29,44,004004,Hour,12.0,h
+45,29,45,004005,Minute,0.0,min
+46,29,46,004006,Second,1.0,s
+47,29,47,008023,First-order statistics,2.0,Code table
+48,29,48,204008,Operator,,
+49,29,49,031021,Associated field significance,5.0,Code table
+50,29,50,,Associated field,0.0,
+51,29,51,012101,Temperature/air temperature,284.75,K
+52,29,52,204000,Operator,,
+53,29,53,004023,Time period or displacement,0.0,d
+54,29,54,004004,Hour,0.0,h
+55,29,55,004005,Minute,0.0,min
+56,29,56,004006,Second,1.0,s
+57,29,57,008023,First-order statistics,3.0,Code table
+58,29,58,204008,Operator,,
+59,29,59,031021,Associated field significance,5.0,Code table
+60,29,60,,Associated field,0.0,
+61,29,61,012101,Temperature/air temperature,276.15000000000003,K
+62,29,62,204000,Operator,,
+63,29,63,004023,Time period or displacement,0.0,d
+64,29,64,004004,Hour,4.0,h
+65,29,65,004005,Minute,0.0,min
+66,29,66,004006,Second,1.0,s
+67,29,67,008023,First-order statistics,4.0,Code table
+68,29,68,204008,Operator,,
+69,29,69,031021,Associated field significance,5.0,Code table
+70,29,70,,Associated field,0.0,
+71,29,71,012101,Temperature/air temperature,279.75,K
+72,29,72,204000,Operator,,
+73,29,73,008023,First-order statistics,,Code table
+0,30,0,001125,WIGOS identifier series,0.0,Numeric
+1,30,1,001126,WIGOS issuer of identifier,20000.0,Numeric
+2,30,2,001127,WIGOS issue number,0.0,Numeric
+3,30,3,001128,WIGOS local identifier (character),71805,CCITT IA5
+4,30,4,001001,WMO block number,71.0,Numeric
+5,30,5,001002,WMO station number,805.0,Numeric
+6,30,6,005001,Latitude (high accuracy),46.76633,deg
+7,30,7,006001,Longitude (high accuracy),-56.179170000000006,deg
+8,30,8,007030,Height of station ground above mean sea level,21.0,m
+9,30,9,008095,Siting and measurement quality classification for temperature,,Code table
+10,30,10,008096,Siting and measurement quality classification for precipitation,,Code table
+11,30,11,008094,Method used to calculate the average daily temperature,2,Code table
+12,30,12,004001,Year,2021.0,a
+13,30,13,004002,Month,10.0,mon
+14,30,14,004003,Day,31.0,d
+15,30,15,004023,Time period or displacement,0.0,d
+16,30,16,004004,Hour,12.0,h
+17,30,17,004005,Minute,0.0,min
+18,30,18,004006,Second,1.0,s
+19,30,19,204008,Operator,,
+20,30,20,031021,Associated field significance,5,Code table
+21,30,21,,Associated field,0,
+22,30,22,013060,Total accumulated precipitation,1.0,kg m-2
+23,30,23,204000,Operator,,
+24,30,24,004023,Time period or displacement,0.0,d
+25,30,25,004004,Hour,12.0,h
+26,30,26,004005,Minute,0.0,min
+27,30,27,004006,Second,1.0,s
+28,30,28,204008,Operator,,
+29,30,29,031021,Associated field significance,5,Code table
+30,30,30,,Associated field,0,
+31,30,31,013012,Depth of fresh snow (depth of snowfall),0.0,m
+32,30,32,204000,Operator,,
+33,30,33,004023,Time period or displacement,0.0,d
+34,30,34,004004,Hour,12.0,h
+35,30,35,004005,Minute,0.0,min
+36,30,36,004006,Second,0.0,s
+37,30,37,204008,Operator,,
+38,30,38,031021,Associated field significance,5,Code table
+39,30,39,,Associated field,0,
+40,30,40,013013,Total snow depth (snow depth),0.0,m
+41,30,41,204000,Operator,,
+42,30,42,007032,Height of sensor above local ground (or deck of marine platform),2.0,m
+43,30,43,004023,Time period or displacement,0.0,d
+44,30,44,004004,Hour,12.0,h
+45,30,45,004005,Minute,0.0,min
+46,30,46,004006,Second,1.0,s
+47,30,47,008023,First-order statistics,2.0,Code table
+48,30,48,204008,Operator,,
+49,30,49,031021,Associated field significance,5.0,Code table
+50,30,50,,Associated field,0.0,
+51,30,51,012101,Temperature/air temperature,283.95,K
+52,30,52,204000,Operator,,
+53,30,53,004023,Time period or displacement,0.0,d
+54,30,54,004004,Hour,0.0,h
+55,30,55,004005,Minute,0.0,min
+56,30,56,004006,Second,1.0,s
+57,30,57,008023,First-order statistics,3.0,Code table
+58,30,58,204008,Operator,,
+59,30,59,031021,Associated field significance,5.0,Code table
+60,30,60,,Associated field,0.0,
+61,30,61,012101,Temperature/air temperature,278.95,K
+62,30,62,204000,Operator,,
+63,30,63,004023,Time period or displacement,0.0,d
+64,30,64,004004,Hour,4.0,h
+65,30,65,004005,Minute,0.0,min
+66,30,66,004006,Second,1.0,s
+67,30,67,008023,First-order statistics,4.0,Code table
+68,30,68,204008,Operator,,
+69,30,69,031021,Associated field significance,5.0,Code table
+70,30,70,,Associated field,0.0,
+71,30,71,012101,Temperature/air temperature,281.15000000000003,K
+72,30,72,204000,Operator,,
+73,30,73,008023,First-order statistics,,Code table

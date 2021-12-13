@@ -15,7 +15,7 @@ docker build --no-cache -t dayclim_latest .
 3) Run image using docker desktop and set port to 5000. From Windows command prompt:
 
 ``
-docker run -d -p 5000:5000 dayclim
+docker run -d -p 5000:5000 dayclim_latest
 ``
 
 4) Visit:
