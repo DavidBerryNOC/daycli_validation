@@ -312,7 +312,8 @@ class bufr_message:
         length = int(bits[33:56].to01(), 2)
         edition = int(bits[56:64].to01(), 2)
         assert edition == 4, 'Only BUFR edition 4 supported'
-        self.section0 = {'bufr': bufr, 'length': length, 'version': edition}
+        section0 = {'bufr': bufr, 'length': length, 'version': edition}
+        self.section0 = section0
 
     def read_section1(self, bits):
         length = int(bits[0:24].to01(), 2)
@@ -340,7 +341,7 @@ class bufr_message:
         else:
             optional = None
 
-        self.section1 = {'master_table': master_table,
+        section1 = {'master_table': master_table,
                     'originating_centre': originating_centre,
                     'sub_centre': sub_centre,
                     'update_sequence': update_sequence,
@@ -357,6 +358,7 @@ class bufr_message:
                     'minute': minute,
                     'second': second,
                     'optional': optional}
+        self.section1 = section1
 
     def read_section2(self, bits):
         length = int(bits[0:24].to01(), 2)
@@ -394,7 +396,7 @@ class bufr_message:
             idx += 16
 
 
-        self.section3 = {
+        section3 = {
             'length': length,
             'zero': zero,
             'number_subsets': number_subsets,
@@ -402,6 +404,7 @@ class bufr_message:
             'ndescriptors': ndescriptors,
             'unexpanded_descriptors': unexpanded_descriptors
         }
+        self.section3 = section3
 
     def read_section4(self, bits):
         length = int(bits[0:24].to01(), 2)
@@ -410,11 +413,12 @@ class bufr_message:
         assert zero == 0, 'Zero != 0 in section 4'
         length_payload = length * 8 - 32
         payload = bits[32:(32 + length_payload)]
-        self.section4 = {
+        section4 = {
             'length': length,
             'zero': zero,
             'payload': payload
         }
+        self.section4 = section4
 
     def read_section5(self, bits):
 
