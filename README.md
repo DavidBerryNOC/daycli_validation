@@ -9,7 +9,7 @@ git clone https://github.com/DavidBerryNOC/daycli_validation.git
 as issues with caching repository). From the command line (Windows command prompt, Mac terminal etc):
 
 ```
-docker build --no-cache -t dayclim .
+docker build --no-cache -t dayclim_latest .
 ```
 
 3) Run image using docker desktop and set port to 5000. From Windows command prompt:
